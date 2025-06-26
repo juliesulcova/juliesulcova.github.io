@@ -1,5 +1,15 @@
 @import 'tailwindcss';
 
+@font-face {
+  font-family: Nuckle;
+  src: url(HW-Nuckle-Medium.otf);
+  font-weight: medium;
+}
+
+* {
+    font-family: Nuckle;
+}
+
 a {
    @apply underline; 
    @apply cursor-pointer;

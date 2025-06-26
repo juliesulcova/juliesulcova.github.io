@@ -2,4 +2,4 @@ import { persisted } from 'svelte-persisted-store'
 
 // First param `preferences` is the local storage key.
 // Second param is the initial value.
-export const preferences = persisted('lang', 'en')
+export const preferences = persisted('lang', 'cz')
