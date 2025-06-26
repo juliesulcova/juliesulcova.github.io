@@ -2,6 +2,11 @@
     import Page from "../nerdshit/Page.svelte";
     import CZ from "../nerdshit/CZ.svelte";
     import EN from "../nerdshit/EN.svelte";
+
+    export let photo;
+
+    photo = "uvodni fotka.JPEG";
+
 </script>
 
 <Page>

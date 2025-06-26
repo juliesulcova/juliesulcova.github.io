@@ -1,24 +1,28 @@
 <!-- kdyby byl competition v nerd picovinach tak toto je silny kandidat, muzes zavrit -->
 
 <script>
+    import { fade, slide } from "svelte/transition";
 import pages from "./pages/pages";
 import { preferences } from './preferences'
 
 let page = pages[0];
+let photo;
 
 </script>
 
 <!-- bg-conic from-[#C3BADC] via-[#E2D5C6] via-[#D9CCD8] to-[#C3BADC] -->
-<div class="p-5 grid grid-cols-1 sm:grid-cols-2 gap-8  w-screen min-h-screen">
+<div class="p-5 {photo ? 'grid grid-cols-1 sm:grid-cols-2' : ''} gap-8  w-screen min-h-screen">
     <div>
         <div class="text-xl mb-4">BcA. Julie Šulcová</div>
         <div class="text-lg mb-1">{page[0][$preferences == 'en' ? 1 : 0]}</div>
 
-        <svelte:component this={page[1]}></svelte:component>
+        <svelte:component this={page[1]} bind:photo={photo}></svelte:component>
     </div>
-    <div class="flex sm:justify-end sm:row-span-3">
-        <img src="uvodni fotka.JPEG" alt="" class="shadow-xl h-96">
-    </div>
+    {#if photo}
+        <div class="flex sm:justify-end sm:row-span-3" transition:fade>
+            <img src={photo} alt="" class="shadow-xl h-96">
+        </div>
+    {/if}
     <div>
         <ul class="mb-3">
             {#each pages as _page}
