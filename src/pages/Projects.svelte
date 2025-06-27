@@ -920,7 +920,7 @@
 
     <p>Projekt sa uskutočnil v rámci programu FAVU Brno a bol prezentovaný aj v priestore Novej Cvernovky v Bratislave.</p>
 
-    <p class="mt-2">Květen–červen 2025, FAVU Brno & Nová Cvernovka Bratislava, performer</p>
+    <p class="mt-2">Květen–červen 2025, FAVU Brno &amp; Nová Cvernovka Bratislava, performer</p>
   </CZ>
 
   <EN>
@@ -934,7 +934,7 @@
 
     <p>The project was realized within the FAVU Brno program and was also presented in the space of Nová Cvernovka in Bratislava.</p>
 
-    <p class="mt-2">May–June 2025, FAVU Brno & Nová Cvernovka Bratislava, performer</p>
+    <p class="mt-2">May–June 2025, FAVU Brno &amp; Nová Cvernovka Bratislava, performer</p>
   </EN>
 </Project>
 
