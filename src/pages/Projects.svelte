@@ -13,13 +13,10 @@
     // nylon
     // jamuvi 21
     // more sea
-    // salon puvodni tvorby 23/22
     // sitko 22
     // wellbeing
     // spotreba druhu
-    // zapomelsem
-    // masterclass obe
-    // lom
+    // masterclass 
 
 
 </script>
@@ -29,17 +26,23 @@
             <Folder folder="break_the_chain.3"></Folder>
             <p>Po absolvování Visiting Artist studia (FUVU) pod vedením Rebeccy Salvadori, kdy jsme se soustředili na propojení vztahu mezi videem a hudbou, kamerou a autorem. Jsem vytvořila track s názvem break the chain ve kterém reflektuji své pocity ohledně pohybu ve všední společnosti a jak to na mne působí, taktéž jsem zde reflektovala určité osobní rodinné konstelace. Téma nostalgie a smutku v mé tvorbě převládá poslední rok tudíž se v tomto duchu nese i video které pak v instalaci doplňoval track. O vztahu mezi kamerou a tebou, zvukem a námi. Video a track reflektují snahu odvrátit pozornost od svazujících vztahů ke společnosti a rodině a navrácení se k pocitu vlastnění svého času pomocí okamžiků kdy se cítím být přítomná “tady a teď”. Snovost, vzpomínky, ztracení se v čase i místu, důležitosti okamžiku tady.</p> 
             <p class="mt-2">FABU Brno, instalace-video, červen 2025</p>
+            <div style="padding:133.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1094716284?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="break the chain"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
         </Project>
         <Project thumbnail="dilny_soula.5/0.jpg" cz="">
             <Folder folder="dilny_soula.5"></Folder>
         </Project>
         <Project thumbnail="dres_cyklo.4/0.jpg" cz="Design dresu pro cyklistickou komunitu cyclecomm">
             <Folder folder="dres_cyklo.4"></Folder>
-                <p>Spolupráce s Brněnskou cklo komunitou a navrhnutí komunitního dresu a následná propagace, výrobu zajistit Bioracer, krom designu jsem uzavřela spolupráci i společným nafocením produktu.</p>
-                <a href="https://www.instagram.com/cyclecomm/">Instagram</a>
+            <p>Spolupráce s Brněnskou cklo komunitou a navrhnutí komunitního dresu a následná propagace, výrobu zajistit Bioracer, krom designu jsem uzavřela spolupráci i společným nafocením produktu.</p>
+            <a href="https://www.instagram.com/cyclecomm/">Instagram</a>
         </Project>
         <Project thumbnail="fiktivniodpad_printy.3/0.jpg" cz="">
             <Folder folder="fiktivniodpad_printy.3"></Folder>
+            <p>
+                Kolekce printů, které tvořím v aplikaci procreate a byly vystavovány v Brně(Anoda), Jihlavě (MB24), Boskovice (Prostor)
+            </p>
+
+            <p class="mt-2">2021-2023, designér</p>
         </Project>
         <Project thumbnail="fiktivniodpad_vystava.6/0.jpg" cz="fiktivniodpad/výstava">
             <Folder folder="fiktivniodpad_vystava.6"></Folder>
@@ -77,6 +80,8 @@
                 <p>
                     Workshopu jsem se účastnila jako tvůrce/performer, ale zkušenost jsem brala i z pedagogického hlediska stylu práce se skupinou a jako inspiraci do praxe tvorby autorského divadla.
                 </p>
+
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/iR5T-vrNPw0?si=1Ufc4F0Gtt9wwuhl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </CZ>
         </Project>
         <Project thumbnail="gn_nobody.2/0.jpg" cz="Goodnight nobody">
@@ -144,6 +149,13 @@
         </Project>
         <Project thumbnail="jamuvi22.4/0.jpg" cz="">
             <Folder folder="jamuvi22.4"></Folder>
+            <p>
+                Festival JAMŮví je přehlídkou audiovizuální tvorby vznikající na Divadelní fakultě Janáčkovy akademie múzických umění. První ročník se uskutečnil v roce 2018.
+            </p>
+            <p>
+                V roce 2022 jsem vystavovala na festivalu několik mých plakátů a animací. Animace se promítali u vystavených printů, celkem to byl 10 kratších videí ve smyčce.
+            </p>
+            <p class="mt-2">Listopad 2022</p>
         </Project>
         <Project thumbnail="jiny_svety.7/0.jpg" cz="jiny_svety //International art event Prague">
             <Folder folder="jiny_svety.7"></Folder>
@@ -246,6 +258,21 @@
         </Project>
         <Project thumbnail="louskacek.2/0.jpg" cz="">
             <Folder folder="louskacek.2"></Folder>
+                <p><strong>Dílna k inscenaci Louskáček – NdB: Janáčkovo divadlo</strong></p>
+
+                <p><em>Obsah:</em><br>
+                – seznámení se základními principy baletu (pojem, základní pohyby)<br>
+                – seznámení se s postavami a dějem Louskáčka<br>
+                – ochutnávka cukrovinek podle čtyř národních tanců a kreativní pohybová práce<br>
+                – sdílení výstupů z pohybové práce<br>
+                – odůvodnění pohybové práce ve vztahu k Louskáčkovi</p>
+
+                <p>V projektu jsem působila jako jeden z lektorů, přičemž jsme měli předem připravená cvičení (viz osnova), díky kterým jsme společně s účastníky rozebrali principy a témata inscenace, prakticky a v prostoru. Tým lektorek byl tematicky oděn do kostýmů jednotlivých národních tanců z Louskáčka, a tomu odpovídalo i rozdělení aktivit. Já, jakožto představitelka španělského tance, jsem vedla úvodní část – seznámení s baletem a dějem inscenace, a připravila jsem poslechový kvíz zaměřený na rozpoznávání hudebních nástrojů z ukázek hudební složky Louskáčka.</p>
+
+                <p>Po poslechové části jsme se přesunuli do pohybového prostoru, kde jsme společně vytvořili vlastní verzi španělského tance. S touto choreografií jsme se následně zúčastnili závěrečného „dance battlu“ v ringu společných tanců, kde měli účastníci možnost své výstupy představit ostatním.</p>
+
+                <p class="mt-2">2022 Brno, edukativní dílna, lektor</p>
+
         </Project>
         <Project thumbnail="mlceni_srdcove_damy.2/0.jpg" cz="Divadlo fórum- Mlčení srdcové dámy 2023">
             <Folder folder="mlceni_srdcove_damy.2"></Folder>
@@ -417,15 +444,70 @@
         </Project>
         <Project thumbnail="sila.4/0.jpg" cz="">
             <Folder folder="sila.4"></Folder>
+            <p>
+                Výstup z pohybového divadla na téma práce s předmětem. Vybrala jsem si silonky, se kterými jsem vytvořila nonverbální pohybovou situaci na téma toxicity v partnerském vztahu. Vycházela jsem z mé zkušenosti s nehezkým ukončením vztahu a to jak jsem se cítila v období rozkladu vztahu.
+            </p>
+            <p>
+                Výstup probíhal celkem dvakrát a to jednou pro veřejnost a po druhé jako součást fedtivalu Sítko 2023.
+            </p>
+
+            <p class="mt-2">Květen 2023 Brno, performer</p>
         </Project>
-        <Project thumbnail="spt22.2/0.jpg" cz="">
+        <Project thumbnail="spt22.2/0.jpg" cz="Salon původní tvorby 2022">
             <Folder folder="spt22.2"></Folder>
+            <p>Salon původní tvorby je festival scénického čtení a inscenací na náměty původní tvorby podnětů studentů Divadelní fakulty Janáčkovy akademie múzických umění v Brně s již třicetiletou tradicí konání.</p>
+
+            <p>Na základě veřejné výzvy probíhá začátkem roku sběr autorských textů studentů Divadelní fakulty. Nedlouho poté je pořádána burza původních textů, na které si kdokoliv z řad studentů může vybrat konkrétní text, který následně zpracuje do podoby scénického čtení či divadelní inscenace.</p>
+
+            <p>V průběhu dvoudenního festivalu jsou pak tyto umělecké výstupy prezentovány na půdě Divadelní fakulty. V návaznosti na tuto studentskou produkci pak jako doprovodný festivalový program probíhají diskuze a přednášky.</p>
+
+            <p>V roce 2022 jsem se účastnila festivalu jako tvůrce audiovizuální/ pohybové etudy z pozice režie. Projekt byl na téma Národ budoucnosti a vycházel z autorského textu, který jsem převedla do pohybového/audiovizuálního tvaru.</p>
+
+            <p class="mt-2">Březen 2022 divadlo, režie</p>
+
         </Project>
-        <Project thumbnail="spt23.4/0.jpg" cz="">
+        <Project thumbnail="spt23.4/0.jpg" cz="Salon původní tvorby 2023">
             <Folder folder="spt23.4"></Folder>
+            <p>Salon původní tvorby je festival scénického čtení a inscenací na náměty původní tvorby podnětů studentů Divadelní fakulty Janáčkovy akademie múzických umění v Brně s již třicetiletou tradicí konání.</p>
+
+            <p>Na základě veřejné výzvy probíhá začátkem roku sběr autorských textů studentů Divadelní fakulty. Nedlouho poté je pořádána burza původních textů, na které si kdokoliv z řad studentů může vybrat konkrétní text, který následně zpracuje do podoby scénického čtení či divadelní inscenace.</p>
+
+            <p>V průběhu dvoudenního festivalu jsou pak tyto umělecké výstupy prezentovány na půdě Divadelní fakulty. V návaznosti na tuto studentskou produkci pak jako doprovodný festivalový program probíhají diskuze a přednášky.</p>
+
+            <p>V roce 2023 jsem se účastnila festivalu jako autor textů, ale i jako tvůrce krátké herecké etudy z pozice režie a herce.</p>
+
+            <p class="mt-2">Březen 2023 divadlo, režie</p>
+
         </Project>
         <Project thumbnail="vlastni_praxe.5/0.jpg" cz="">
             <Folder folder="vlastni_praxe.5"></Folder>
+        </Project>
+        <Project thumbnail="" cz="Masterclass s Stéphanie N’Duhirahe: Jak prezentovat tělo v prostoru pomocí obrazu">
+            <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1095681166?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="how to present your body in space"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+            <p>Spektem video tvorby Stéphanie Nyota NDuhirahe je použití tohoto média jako prostředku psaní a popisu každodenního života nebo vybraného momentu. Během určitého časového období Stéphanie zachytává zvuky a natáčí mnoho krátkých sekvencí, které rychle a spontánně skládá dohromady, čímž vytváří videa, která vnímá jako deníky. Kamera je zde využita jako tužka, která by rychle načrtla skici do zápisníku. Střih se tak stává místem experimentu nebo spíše hrou asociací nápadů, objektů, barev, zvuků a pohybů.</p>
+
+            <p>Zajímá ji také různé způsoby projekce jejích obrazů. Ráda si hraje s velikostí projekce a také se specifiky místa, kde je video prezentováno. Zajímá se o různé materiály (například mouka, kůže, sklo, kameny atd.), které při použití jako podklad pro její projekce dávají obrazu další význam a způsobují, že její videa se vyvíjejí, čímž se stávají více performativními a propojenými s přítomným okamžikem.</p>
+
+            <p>Stéphanie navrhuje pracovat s touto metodou video deníku a spontánního natáčení.</p>
+
+            <p class="mt-2">FAVU Brno 29.11.2024 workshop, performer</p>
+
+        </Project>
+        <Project thumbnail="" cz="Lofofora Lom">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/b95cGTWXQ18?si=VG05JShTfC6elTpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Rákosí a průzračná voda, smočené nohy, klid. Zlínsko-brněnský kolektiv Lofofora hledal okamžiky, při kterých nám je dobře, kde najdeme vzájemnou empatii nebo i ty, které nám pomáhají se zotavit. K harmonii fauny a flóry Kurovického lomu se připojil zvuk i hudební a umělecký projev 7. září.</p>
+
+            <p>Návštěvníci si mohli užít workshopy, umělecké akce a instalace, koncerty na břehu i besedu a další aktivity prohlubující léčitelství, mentální i fyzickou pohodu a pospolitost. Get well soon!</p>
+
+            <p class="mt-2">Zlín, festival-produkce 7.9.2024</p>
+
+        </Project>
+
+        <Project thumbnail="" cz="Zapomělsem x fiktivní odpad">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/CQfVCFgkbEg?si=w8W31eK8R2c2ad5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Vizuálně hudební kolaborace na skladbách Aleše Macenauera aka Zapomělsem v podobě videoklipu a song coveru.</p>
+            <a href="https://open.spotify.com/album/4QxxCrZB6nsOD1meQLSHjS?si=sI1UQJoMSK-VWSB6iS84rA">Spotify</a>
+            <p class="mt-2">2023-2024 Brno track, grafika</p>
         </Project>
     </Grid>
 </Page>
