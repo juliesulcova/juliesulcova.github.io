@@ -1,7 +1,7 @@
 <script>
-    import { slide } from "svelte/transition";
+    import { fade, slide } from "svelte/transition";
 </script>
 
-<div transition:slide>
+<div in:fade>
     <slot></slot>
 </div>

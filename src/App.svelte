@@ -11,7 +11,7 @@ let photo;
 </script>
 
 <!-- bg-conic from-[#C3BADC] via-[#E2D5C6] via-[#D9CCD8] to-[#C3BADC] -->
-<div class="p-5 {photo ? 'grid grid-cols-1 sm:grid-cols-2' : ''} gap-8  w-screen min-h-screen">
+<div class="p-5 grid grid-cols-1 {photo ? 'sm:grid-cols-2' : ''} gap-4 w-screen min-h-screen">
     <div>
         <div class="text-xl mb-4">BcA. Julie Šulcová</div>
         <div class="text-lg mb-1">{page[0][$preferences == 'en' ? 1 : 0]}</div>
@@ -19,7 +19,7 @@ let photo;
         <svelte:component this={page[1]} bind:photo={photo}></svelte:component>
     </div>
     {#if photo}
-        <div class="flex sm:justify-end sm:row-span-3" transition:fade>
+        <div class="flex sm:justify-end sm:row-span-3" in:fade>
             <img src={photo} alt="" class="shadow-xl h-96">
         </div>
     {/if}
