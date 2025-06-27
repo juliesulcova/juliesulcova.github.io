@@ -57,21 +57,17 @@
 
 
 <Project thumbnail="break_the_chain.3/0.jpg" cz="Break the chain instalace" en="Break the chain installation">
+    <Folder folder="break_the_chain.3"></Folder>
     
     <CZ>
-        <p>Po absolvování Visiting Artist studia (FUVU) pod vedením Rebeccy Salvadori, kdy jsme se soustředili na propojení vztahu mezi videem a hudbou, kamerou a autorem. Jsem vytvořila track s názvem break the chain ve kterém reflektuji své pocity ohledně pohybu ve všední společnosti a jak to na mne působí, taktéž jsem zde reflektovala určité osobní rodinné konstelace. Téma nostalgie a smutku v mé tvorbě převládá poslední rok tudíž se v tomto duchu nese i video které pak v instalaci doplňoval track. O vztahu mezi kamerou a tebou, zvukem a námi. Video a track reflektují snahu odvrátit pozornost od svazujících vztahů ke společnosti a rodině a navrácení se k pocitu vlastnění svého času pomocí okamžiků kdy se cítím být přítomná “tady a teď”. Snovost, vzpomínky, ztracení se v čase i místu, důležitosti okamžiku tady.</p> 
+        <p>Po absolvování Visiting Artist studia (FAVU) pod vedením Rebeccy Salvadori, kdy jsme se soustředili na propojení vztahu mezi videem a hudbou, kamerou a autorem. Jsem vytvořila track s názvem break the chain ve kterém reflektuji své pocity ohledně pohybu ve všední společnosti a jak to na mne působí, taktéž jsem zde reflektovala určité osobní rodinné konstelace. Téma nostalgie a smutku v mé tvorbě převládá poslední rok tudíž se v tomto duchu nese i video které pak v instalaci doplňoval track. O vztahu mezi kamerou a tebou, zvukem a námi. Video a track reflektují snahu odvrátit pozornost od svazujících vztahů ke společnosti a rodině a navrácení se k pocitu vlastnění svého času pomocí okamžiků kdy se cítím být přítomná “tady a teď”. Snovost, vzpomínky, ztracení se v čase i místu, důležitosti okamžiku tady.</p> 
         <p class="mt-2">FAVU Brno, instalace-video, červen 2025</p>
     </CZ>
 
     <EN>
-        <p>After completing the Visiting Artist studio (FUVU) led by Rebecca Salvadori, where we focused on exploring the relationship between video and music, the camera and the author, I created a track called *break the chain* in which I reflect on my feelings about moving through everyday society and how it affects me. I also reflected on certain personal family constellations. The theme of nostalgia and sadness has dominated my work over the past year, so the video that accompanies the track in the installation carries this same atmosphere. It's about the relationship between the camera and you, the sound and us. The video and track reflect an effort to shift attention away from constraining relationships with society and family and back to a sense of owning my own time—through moments when I feel present “here and now.” Dreaminess, memories, getting lost in time and place, and the importance of the moment here.</p>
+        <p>After completing the Visiting Artist studio (FAVU) led by Rebecca Salvadori, where we focused on exploring the relationship between video and music, the camera and the author, I created a track called *break the chain* in which I reflect on my feelings about moving through everyday society and how it affects me. I also reflected on certain personal family constellations. The theme of nostalgia and sadness has dominated my work over the past year, so the video that accompanies the track in the installation carries this same atmosphere. It's about the relationship between the camera and you, the sound and us. The video and track reflect an effort to shift attention away from constraining relationships with society and family and back to a sense of owning my own time—through moments when I feel present “here and now.” Dreaminess, memories, getting lost in time and place, and the importance of the moment here.</p>
         <p class="mt-2">FAVU Brno, video installation, June 2025</p>
     </EN>
-
-    <div style="padding:133.33% 0 0 0;position:relative;">
-        <iframe src="https://player.vimeo.com/video/1094716284?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="break the chain"></iframe>
-    </div>
-    <script src="https://player.vimeo.com/api/player.js"></script>
 </Project>
 <Project thumbnail="dres_cyklo.4/0.jpg" cz="Design dresu pro cyklistickou komunitu cyclecomm" en="Jersey design for the cyclecomm cycling community">
     <Folder folder="dres_cyklo.4"></Folder>
