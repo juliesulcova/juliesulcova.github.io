@@ -25,30 +25,33 @@
         <Project thumbnail="break_the_chain.3/0.jpg" cz="Break the chain instalace">
             <Folder folder="break_the_chain.3"></Folder>
             <p>Po absolvování Visiting Artist studia (FUVU) pod vedením Rebeccy Salvadori, kdy jsme se soustředili na propojení vztahu mezi videem a hudbou, kamerou a autorem. Jsem vytvořila track s názvem break the chain ve kterém reflektuji své pocity ohledně pohybu ve všední společnosti a jak to na mne působí, taktéž jsem zde reflektovala určité osobní rodinné konstelace. Téma nostalgie a smutku v mé tvorbě převládá poslední rok tudíž se v tomto duchu nese i video které pak v instalaci doplňoval track. O vztahu mezi kamerou a tebou, zvukem a námi. Video a track reflektují snahu odvrátit pozornost od svazujících vztahů ke společnosti a rodině a navrácení se k pocitu vlastnění svého času pomocí okamžiků kdy se cítím být přítomná “tady a teď”. Snovost, vzpomínky, ztracení se v čase i místu, důležitosti okamžiku tady.</p> 
-            <p class="mt-2">FABU Brno, instalace-video, červen 2025</p>
+            <p class="mt-2">FAVU Brno, instalace-video, červen 2025</p>
             <div style="padding:133.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1094716284?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="break the chain"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-        </Project>
-        <Project thumbnail="dilny_soula.5/0.jpg" cz="">
-            <Folder folder="dilny_soula.5"></Folder>
         </Project>
 
         <Project thumbnail="wellbeing.9/0.jpg" cz="">
             <Folder folder="wellbeing.9"></Folder>
+
+            <p>
+                Autorská bakalářská inscence, která se zaměřovala na téma wellbeing u třech hlavních postav, které zažívají rozlišné životní situace, kdy jim dochází co to znamená mít osobní wellbeing rituály. Postava duchovně zaměřenější Dominky, ezoteričtější Stely a nihilistické Julie se propojují situační koláží a vypráví tak svuj příběh mladému publiku ve věku střední školy.
+            </p>
+
+            <p>
+                Inscenace nesla pedagogický aspekt a vhled do wellbeing rituálů a tematizovala tak duševní zdraví a jak o něj pečovat svépomocí. Každou reprízu doprovázel tématický workshop sestaven z cvičení dramatické výchovy.
+            </p>
+
+            <p class="mt-2">
+                Duben- Květen 2024 divadlo, herec, režie
+            </p>
+
         </Project>
-
-Autorská bakalářská inscence, která se zaměřovala na téma wellbeing u třech hlavních postav, které zažívají rozlišné životní situace, kdy jim dochází co to znamená mít osobní wellbeing rituály. Postava duchovně zaměřenější Dominky, ezoteričtější Stely a nihilistické Julie se propojují situační koláží a vypráví tak svuj příběh mladému publiku ve věku střední školy.
-
-Inscenace nesla pedagogický aspekt a vhled do wellbeing rituálů a tematizovala tak duševní zdraví a jak o něj pečovat svépomocí. Každou reprízu doprovázel tématický workshop sestaven z cvičení dramatické výchovy.
-
-Duben- Květen 2024 divadlo, herec, režie
-
 
         <Project thumbnail="dres_cyklo.4/0.jpg" cz="Design dresu pro cyklistickou komunitu cyclecomm">
             <Folder folder="dres_cyklo.4"></Folder>
             <p>Spolupráce s Brněnskou cklo komunitou a navrhnutí komunitního dresu a následná propagace, výrobu zajistit Bioracer, krom designu jsem uzavřela spolupráci i společným nafocením produktu.</p>
             <a href="https://www.instagram.com/cyclecomm/">Instagram</a>
         </Project>
-        <Project thumbnail="fiktivniodpad_printy.3/0.jpg" cz="">
+        <Project thumbnail="fiktivniodpad_printy.3/0.jpg" cz="fiktivní odpad/printy">
             <Folder folder="fiktivniodpad_printy.3"></Folder>
             <p>
                 Kolekce printů, které tvořím v aplikaci procreate a byly vystavovány v Brně(Anoda), Jihlavě (MB24), Boskovice (Prostor)
@@ -159,7 +162,7 @@ Duben- Květen 2024 divadlo, herec, režie
                 </p>
             </CZ>
         </Project>
-        <Project thumbnail="jamuvi22.4/0.jpg" cz="">
+        <Project thumbnail="jamuvi22.4/0.jpg" cz="JAMŮví 2022">
             <Folder folder="jamuvi22.4"></Folder>
             <p>
                 Festival JAMŮví je přehlídkou audiovizuální tvorby vznikající na Divadelní fakultě Janáčkovy akademie múzických umění. První ročník se uskutečnil v roce 2018.
@@ -418,8 +421,8 @@ Duben- Květen 2024 divadlo, herec, režie
             <p class="mt-2">Kafara, Brno 1.2.2025 performer</p>
 
         </Project>
-        <Project thumbnail="sbor.9/0.jpg" cz="Workshop na motivy inscenace Sbor Divadla na Orl">
-            <Folder folder="sbor.9"></Folder>
+        <Project thumbnail="sbor.14/0.jpg" cz="Workshop na motivy inscenace Sbor Divadla na Orl">
+            <Folder folder="sbor.14"></Folder>
             <p>Workshop před představením tzn. práce s publikem, které se publikem teprve stane. Z toho vyplývá,
             že cílem práce je poskytnout oporu a podněty k lepšímu/širšímu vnímání budoucího diváckého
             zážitku.</p>

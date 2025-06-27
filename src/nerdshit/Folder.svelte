@@ -10,7 +10,7 @@
 <div class="mb-3">
     <Carousel>
         {#each {length: count}, i}
-            <img src="{folder}/{i}.jpg" alt="" class="h-50"> 
+            <img src="{folder}/{i}.jpg" alt="" class="h-75"> 
         {/each}
     </Carousel>
 </div>
