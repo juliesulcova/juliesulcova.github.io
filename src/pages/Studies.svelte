@@ -11,17 +11,53 @@
 
 <Page>
     <CZ>
-        Nyní jsem studentkou performance na Fakultě výtvarných umění v Brně. Jsem člověk, který dělá spoustu různých věcí v oblasti kultury z různých pozic. V současné době se věnuji produkci divadelních, hudebních a happeningových akcí v kulturním zařízení Prostor Boskovice a v kolektivu Favulabel.
+        <h3>Fakulta výtvarných umění, Vysoké učení technické v Brně (VUT)</h3>
+        <p><em>Performance art</em><br>
+        Září 2024 – současnost<br>
+        Brno, Česká republika</p>
 
-Kromě této produkční činnosti se velkou část svého života věnuji výtvarné tvorbě, jako jsou plakáty a tetování. Vytvářím jak umělecké, tak propagační plakáty. Ty propagační jsou většinou zaměřeny na hudební akce, koncerty, divadelní představení a další... Ze svého bakalářského studia mám dobré dovednosti ve vymýšlení scénářů, práci s předměty ve výtvarném umění nebo fyzickém provedení, vytváření workshopů na různá témata pomocí cvičení dramatické výchovy.
+        <h3>Divadelní fakulta, Janáčkova akademie múzických umění (JAMU)</h3>
+        <p><em>Divadlo a výchova</em><br>
+        Září 2021 – Červen 2024<br>
+        Brno, Česká republika</p>
 
-Tetování se aktivně věnuji od začátku roku 2021. Začínal jsem s ručním vypichováním a nyní tetuji čistě strojkem. V současné době pracuji ve studiu na Rybářské v Brně - sdílené studio Arthub kolem nástrojů Bastl.
+        <h3>Univerzita Palackého v Olomouci – Filozofická fakulta</h3>
+        <p><em>Divadelní a uměnovědná studia</em><br>
+        2020 – 2021<br>
+        Olomouc, Česká republika</p>
+
+        <h3>Střední pedagogická škola Boskovice</h3>
+        <p><em>Pedagogické lyceum</em><br>
+        2017 – 2020<br>
+        Boskovice, Česká republika</p>
+
+        <h3>Soukromé šestileté gymnázium Rájec-Jestřebí</h3>
+        <p>2014 – 2017<br>
+        Rájec-Jestřebí, Česká republika</p>
     </CZ>
     <EN>
-Now I'm a student of performance in Faculty of fine arts in Brno.I am person who does a lot of different things in the field of culture from different positions. I am currently engaged in the production of theatrical, musical and happening events in the cultural facility Prostor Boskovice and in colective Favulabel.
+        <h3>Faculty of Fine Arts, Brno University of Technology (VUT)</h3>
+        <p><em>Performance Art</em><br>
+        September 2024 – Present<br>
+        Brno, Czech Republic</p>
 
-In addition to this production activity, I devote a large part of my life to the creation of visual art such as posters and tattoos. I make both artistic and promotional posters. Promotional ones usually focus on music events, concerts, theater performances, and more... Fom my bachelos studies i have a good skills in commin up with scenerios, work with item in visual art or fyzical performance,creating workshops on different themes by using drama education exercise.
+        <h3>Theatre Faculty, Janáček Academy of Music and Performing Arts (JAMU)</h3>
+        <p><em>Theatre and Education</em><br>
+        September 2021 – June 2024<br>
+        Brno, Czech Republic</p>
 
-I have been actively involved in tattooing since the beginning of 2021. I started with a hand poke and now I tattoo purely with a machine. I currently work in the studio at Rybářské in Brno - Arthub shared studios around Bastl instruments.
+        <h3>Palacký University Olomouc – Faculty of Arts</h3>
+        <p><em>Theatre and Art Studies</em><br>
+        2020 – 2021<br>
+        Olomouc, Czech Republic</p>
+
+        <h3>Secondary Pedagogical School Boskovice</h3>
+        <p><em>Pedagogical Lyceum</em><br>
+        2017 – 2020<br>
+        Boskovice, Czech Republic</p>
+
+        <h3>Private Six-Year Grammar School Rájec-Jestřebí</h3>
+        <p>2014 – 2017<br>
+        Rájec-Jestřebí, Czech Republic</p>
     </EN>
 </Page>

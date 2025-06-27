@@ -481,6 +481,8 @@
         </Project>
         <Project thumbnail="vlastni_praxe.5/0.jpg" cz="">
             <Folder folder="vlastni_praxe.5"></Folder>
+            <p>Vlastní praxe na SŠUM proběhla v roce 2022, kdy jsem měla možnost pracovat s 3.ročníkem- specializace Dramatická výchova na závěrečných klauzurách. Spolupracovala jsem s pedagogickým vedením ateliéru a pomáhala vést a realizovat scénografické zpracování klauzur. Tvořila jsem i celkový vizuál a propagaci projektu po konzultaci se studenty.</p>
+            <p class="mt-2">Prosinec 2022 Brno</p>
         </Project>
         <Project thumbnail="" cz="Masterclass s Stéphanie N’Duhirahe: Jak prezentovat tělo v prostoru pomocí obrazu">
             <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1095681166?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="how to present your body in space"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -508,6 +510,40 @@
             <p>Vizuálně hudební kolaborace na skladbách Aleše Macenauera aka Zapomělsem v podobě videoklipu a song coveru.</p>
             <a href="https://open.spotify.com/album/4QxxCrZB6nsOD1meQLSHjS?si=sI1UQJoMSK-VWSB6iS84rA">Spotify</a>
             <p class="mt-2">2023-2024 Brno track, grafika</p>
+        </Project>
+
+        <Project thumbnail="mitro.2/0.jpg" cz="Masterclass Michal Mitro: Vibrácie ako médiúm naprieč telami">
+            <Folder folder="mitro.2"></Folder>
+
+            <p><strong>Vibrace jako médium: if.lab workshop</strong></p>
+
+            <p>M.M. se o fenomén vibrací intenzivně zajímá poslední rok, a to především v rámci svého působení na umělecko-výzkumném projektu <em>if.lab</em>. Na projektu spolupracoval se zvukovým umělcem a designérem Kosmasem Phan Dinh (DE) a oceánoložkou a umělkyní Mae Lubetkin (FR/USA) na tvorbě zážitkového vibračního obrazu delty Dunaje. Projekt byl založen na terénních nahrávkách vibrací lidských i více-než-lidských těl, pořízených pomocí speciálně upraveného akcelerometru – nástroje na měření vibrací.</p>
+
+            <p>Výsledné dílo bylo prezentováno na několika prestižních akcích: festivalu Sensorium v Bratislavě, výstavě <em>Bodies of Water</em> v galerii Display v Praze a na festivalu <em>Sanatorium of Sound</em> v polském Sokołowsku.</p>
+
+            <p>V rámci workshopu jsme se nejprve zaměřili na teoretické ukotvení vibrací jako univerzální více-než-lidské entity, a následně jsme se prakticky věnovali možnostem jejich indukce, produkce a kompozice. Vyzkoušeli jsme různé typy kontaktních reproduktorů (budičů), prozkoumali jsme jejich fungování na rozličných rezonančních površích a experimentovali se zvukovou kompozicí v digitálním prostředí.</p>
+
+            <p>Součástí workshopu bylo technické seznámení s typy kontaktních reproduktorů (basové, širokofrekvenční, výškové), jejich zapojením se zesilovači a napájením, a přípravou zvukového materiálu pro cílenou vibrační stimulaci. Skrze kombinaci technického zázemí a konceptuální reflexe vznikl prostor pro hlubší zkoumání zvuku jako fyzického a smyslového média.</p>
+
+            <p class="mt-2">FAVU Brno, květen 2025, tvůrce objektu, workshop</p>
+
+        </Project>
+
+        <Project thumbnail="alzbeta.5/0.jpg" cz="Bakalářská oerformance Alžběty Papikové a kolektiv">
+            <Folder folder="alzbeta.5"></Folder>
+
+            <h3>chuť nahnitých sliviek mi pripomína čas pomaly odísť</h3>
+
+            <p>Autorka otvára tému začleňovania menšín do spoločnosti a vytvárania komunitných štruktúr, ktoré zostávajú často nepovšimnuté, neprijaté či priamo odmietané. V práci sa pohybuje na hrane medzi pozíciou privilegovaného a utlačovaného subjektu – jedinca aj kolektívu – a kladie si otázky vychádzajúce z osobnej skúsenosti aj z kolektívneho prežívania.</p>
+
+            <p>Postava jednotlivca, ktorá sa objavila už v predchádzajúcom autorkinom projekte, sa v tomto diele ďalej rozvíja a formuje – teraz ako súčasť širšieho celku, skupiny bytostí s podobným zámerom a spoločným hlasom. Jemný jazyk a poetické metafory vytvárajú priestor na vnútroné zamyslenie a zároveň ponechávajú divákovi možnosť slobodnej interpretácie.</p>
+
+            <p>Nosným formátom diela je performance, ktorá vrstvením intermediálnych prístupov (zvuk, pohyb, priestor, svetlo) vytvára sugestívne prostredie. Autorka čerpá z konkrétnych udalostí – najmä zo svojho rezidenčného pobytu v Hide Parku v Nitre v roku 2024 – a z emocionálnych odoziev spojených s miestom, ktoré je samo príkladom funkčného komunitného života a spoluzdieľania priestoru.</p>
+
+            <p>Projekt sa uskutočnil v rámci programu FAVU Brno a bol prezentovaný aj v priestore Novej Cvernovky v Bratislave.</p>
+
+            <p class="mt-2">Květen–červen 2025, FAVU Brno & Nová Cvernovka Bratislava, performer</p>
+
         </Project>
     </Grid>
 </Page>
