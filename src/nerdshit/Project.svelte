@@ -1,9 +1,11 @@
 <script>
     import PopUp from "./PopUp.svelte";
+    import { preferences } from "../preferences";
 
     export let thumbnail;
     export let cz; 
-    let name = cz; // TODO JAZYKY
+    export let en;
+    let name = $preferences == 'en' ? en : cz; // TODO JAZYKY
     let opened = false;
 </script>
 
