@@ -70,9 +70,6 @@
         <a href="https://vimeo.com/1094716284">Video</a>
         <p class="mt-2">FAVU Brno, video installation, June 2025</p>
     </EN>
-
-
-    </div>
 </Project>
 <Project thumbnail="dres_cyklo.4/0.jpg" cz="Design dresu pro cyklistickou komunitu cyclecomm" en="Jersey design for the cyclecomm cycling community">
     <Folder folder="dres_cyklo.4"></Folder>
