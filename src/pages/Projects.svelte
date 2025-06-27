@@ -11,7 +11,7 @@
 <Page>
     <Carousel>
         <Project thumbnail="break_the_chain/chain.JPG" name="Break the chain">
-            <Folder folder="break_the_chain"></Folder>
+            <Folder folder="break_the_chain.3"></Folder>
         </Project>
     </Carousel>
 </Page>
