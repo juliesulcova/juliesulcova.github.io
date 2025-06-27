@@ -9,6 +9,6 @@
 
 <Carousel>
     {#each {length: count}, i}
-        <img src="{folder}/{i}.JPG" alt="" class="w-50"> 
+        <img src="{folder}/{i}.jpg" alt="" class="w-50"> 
     {/each}
 </Carousel>

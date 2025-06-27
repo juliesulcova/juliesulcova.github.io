@@ -2,24 +2,21 @@
     import PopUp from "./PopUp.svelte";
 
     export let thumbnail;
-    export let name; 
+    export let cz; 
+    let name = cz; // TODO JAZYKY
     let opened = false;
 </script>
 
-<div class="relative w-75 shrink-0 text-center" on:click={() => opened = true}>
-
-    <img src="{thumbnail}" alt="{name}" class="">
-
-    <div class="absolute w-full h-full bg-black top-0 opacity-50"></div>
-
-    <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white">{name}</div>
+<div class="text-white w-75 h-75 text-center bg-black/50 bg-blend-overlay flex items-center justify-center" on:click={() => opened = true} style="background-image: url({thumbnail}); background-size: cover; background-position: center">
+    {name} 
 </div>
 
 {#if opened}
     <PopUp bind:state={opened}>
-        <div class="bg-white w-screen m-1 sm:w-3/4 h-3/4 p-2">
-            <div class="w-full flex justify-end pr-1 cursor-pointer" on:click={() => opened = false}>
-                X 
+        <div class="bg-white w-screen m-1 sm:w-3/4 h-3/4 p-4">
+            <div class="w-full flex justify-between pr-2 mb-2 cursor-pointer" on:click={() => opened = false}>
+                <div class="text-lg">{name}</div>
+                <div>X</div> 
             </div>
             <slot></slot>
         </div>
