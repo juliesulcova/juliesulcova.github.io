@@ -31,6 +31,18 @@
         <Project thumbnail="dilny_soula.5/0.jpg" cz="">
             <Folder folder="dilny_soula.5"></Folder>
         </Project>
+
+        <Project thumbnail="wellbeing.9/0.jpg" cz="">
+            <Folder folder="wellbeing.9"></Folder>
+        </Project>
+
+Autorská bakalářská inscence, která se zaměřovala na téma wellbeing u třech hlavních postav, které zažívají rozlišné životní situace, kdy jim dochází co to znamená mít osobní wellbeing rituály. Postava duchovně zaměřenější Dominky, ezoteričtější Stely a nihilistické Julie se propojují situační koláží a vypráví tak svuj příběh mladému publiku ve věku střední školy.
+
+Inscenace nesla pedagogický aspekt a vhled do wellbeing rituálů a tematizovala tak duševní zdraví a jak o něj pečovat svépomocí. Každou reprízu doprovázel tématický workshop sestaven z cvičení dramatické výchovy.
+
+Duben- Květen 2024 divadlo, herec, režie
+
+
         <Project thumbnail="dres_cyklo.4/0.jpg" cz="Design dresu pro cyklistickou komunitu cyclecomm">
             <Folder folder="dres_cyklo.4"></Folder>
             <p>Spolupráce s Brněnskou cklo komunitou a navrhnutí komunitního dresu a následná propagace, výrobu zajistit Bioracer, krom designu jsem uzavřela spolupráci i společným nafocením produktu.</p>
@@ -126,8 +138,8 @@
             <p class="mt-2">Květen 2023 divadlo, grafika</p>
 
         </Project>
-        <Project thumbnail="houserules.6/0.jpg" cz="House rules- Fáze performativní workshop">
-            <Folder folder="houserules.6"></Folder>
+        <Project thumbnail="houserules.7/0.jpg" cz="House rules- Fáze performativní workshop">
+            <Folder folder="houserules.7"></Folder>
                 <p>House Rules: Safety and Respect byla participační pohybová performance, zaměřující se na současná pravidla v klubech, která určitým způsobem reflektují autorčin přístup a pohled na to, co pro ni znamená safe-space. Performance proběhla veřejně pro přihlášené účastníky. Open call byl zveřejněn na sociálních sítích. Performance se skládala z participačních cvičení mapující propojení participujících a prostoru, daná cvičení vycházela z dramatické výchovy. Zaměřovala se na vzájemné propojení a hlubší navázání kontaktu mezi dvojicí, která se pohybovala prostorem klubu. Důležitou část cvičení představovala páska přes oči, která vždy jednomu z dvojice zabraňovala v daném smyslovém prožitku, a která participanta nutila soustředit se na zbývající smysly, tedy na hmat a sluch. Princip cvičení poukazuje na záměrné využití slepé důvěry v druhou osobu-vodiče. Vodič měl vždy oči otevřené a pomocí kontaktu dlaně vedl vedeného prostorem. Bylo tedy pouze na vodiči, jak využije důvěru druhého člověka, a jestli se přizpůsobí jeho tempu a nezneužije tak slepé důvěru vedeného. Performance doplňuje autorčin ambientní set, jehož struktura doplňuje, buduje a podtrhává prožitek participujících. Celek je tedy smyslový a tělesný prožitek, který vychází z autorčina vnímání klubové scény, ve které ona sama nachází ''safe-space''.</p> 
                 <p class="mt-2">Prosinec 2024 Brno klub Fáze, performance, performer</p>
         </Project>
