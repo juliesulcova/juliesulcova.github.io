@@ -23,6 +23,39 @@
 </script>
 <Page>
     <Grid>
+<Project thumbnail="alzbeta.5/0.jpg" cz="Bakalářská performance Alžběty Papikové a kolektiv" en="Bachelor Performance by Alžběta Papiková and Collective">
+  <Folder folder="alzbeta.5"></Folder>
+  
+  <CZ>
+    <h3>chuť nahnitých sliviek mi pripomína čas pomaly odísť</h3>
+
+    <p>Autorka otvára tému začleňovania menšín do spoločnosti a vytvárania komunitných štruktúr, ktoré zostávajú často nepovšimnuté, neprijaté či priamo odmietané. V práci sa pohybuje na hrane medzi pozíciou privilegovaného a utlačovaného subjektu – jedinca aj kolektívu – a kladie si otázky vychádzajúce z osobnej skúsenosti aj z kolektívneho prežívania.</p>
+
+    <p>Postava jednotlivca, ktorá sa objavila už v predchádzajúcom autorkinom projekte, sa v tomto diele ďalej rozvíja a formuje – teraz ako súčasť širšieho celku, skupiny bytostí s podobným zámerom a spoločným hlasom. Jemný jazyk a poetické metafory vytvárajú priestor na vnútorné zamyslenie a zároveň ponechávajú divákovi možnosť slobodnej interpretácie.</p>
+
+    <p>Nosným formátom diela je performance, ktorá vrstvením intermediálnych prístupov (zvuk, pohyb, priestor, svetlo) vytvára sugestívne prostredie. Autorka čerpá z konkrétnych udalostí – najmä zo svojho rezidenčného pobytu v Hide Parku v Nitre v roku 2024 – a z emocionálnych odoziev spojených s miestom, ktoré je samo príkladom funkčného komunitného života a spoluzdieľania priestoru.</p>
+
+    <p>Projekt sa uskutočnil v rámci programu FAVU Brno a bol prezentovaný aj v priestore Novej Cvernovky v Bratislave.</p>
+
+    <p class="mt-2">Květen–červen 2025, FAVU Brno &amp; Nová Cvernovka Bratislava, performer</p>
+  </CZ>
+
+  <EN>
+    <h3>the taste of rotten plums reminds me it’s time to slowly leave</h3>
+
+    <p>The author addresses the theme of minority integration into society and the creation of community structures that often remain unnoticed, unaccepted, or directly rejected. The work operates on the edge between the position of a privileged and oppressed subject—both individual and collective—and raises questions stemming from personal experience and collective living.</p>
+
+    <p>The figure of the individual, which appeared in the author's previous project, is further developed and shaped in this work—now as part of a larger whole, a group of beings with a similar intention and shared voice. A delicate language and poetic metaphors create space for inner reflection while leaving the viewer the possibility of free interpretation.</p>
+
+    <p>The core format of the work is performance, which, through layering intermedial approaches (sound, movement, space, light), creates a suggestive environment. The author draws from specific events—especially from her residency at Hide Park in Nitra in 2024—and from emotional responses connected to a place that itself exemplifies functional community life and shared space.</p>
+
+    <p>The project was realized within the FAVU Brno program and was also presented in the space of Nová Cvernovka in Bratislava.</p>
+
+    <p class="mt-2">May–June 2025, FAVU Brno &amp; Nová Cvernovka Bratislava, performer</p>
+  </EN>
+</Project>
+
+
 <Project thumbnail="break_the_chain.3/0.jpg" cz="Break the chain instalace" en="Break the chain installation">
     <Folder folder="break_the_chain.3"></Folder>
     
@@ -71,38 +104,6 @@
     <p class="mt-2">FAVU Brno, May 2025 object creator, workshop</p>
   </EN>
 </Project>
-<Project thumbnail="alzbeta.5/0.jpg" cz="Bakalářská performance Alžběty Papikové a kolektiv" en="Bachelor Performance by Alžběta Papiková and Collective">
-  <Folder folder="alzbeta.5"></Folder>
-  
-  <CZ>
-    <h3>chuť nahnitých sliviek mi pripomína čas pomaly odísť</h3>
-
-    <p>Autorka otvára tému začleňovania menšín do spoločnosti a vytvárania komunitných štruktúr, ktoré zostávajú často nepovšimnuté, neprijaté či priamo odmietané. V práci sa pohybuje na hrane medzi pozíciou privilegovaného a utlačovaného subjektu – jedinca aj kolektívu – a kladie si otázky vychádzajúce z osobnej skúsenosti aj z kolektívneho prežívania.</p>
-
-    <p>Postava jednotlivca, ktorá sa objavila už v predchádzajúcom autorkinom projekte, sa v tomto diele ďalej rozvíja a formuje – teraz ako súčasť širšieho celku, skupiny bytostí s podobným zámerom a spoločným hlasom. Jemný jazyk a poetické metafory vytvárajú priestor na vnútorné zamyslenie a zároveň ponechávajú divákovi možnosť slobodnej interpretácie.</p>
-
-    <p>Nosným formátom diela je performance, ktorá vrstvením intermediálnych prístupov (zvuk, pohyb, priestor, svetlo) vytvára sugestívne prostredie. Autorka čerpá z konkrétnych udalostí – najmä zo svojho rezidenčného pobytu v Hide Parku v Nitre v roku 2024 – a z emocionálnych odoziev spojených s miestom, ktoré je samo príkladom funkčného komunitného života a spoluzdieľania priestoru.</p>
-
-    <p>Projekt sa uskutočnil v rámci programu FAVU Brno a bol prezentovaný aj v priestore Novej Cvernovky v Bratislave.</p>
-
-    <p class="mt-2">Květen–červen 2025, FAVU Brno &amp; Nová Cvernovka Bratislava, performer</p>
-  </CZ>
-
-  <EN>
-    <h3>the taste of rotten plums reminds me it’s time to slowly leave</h3>
-
-    <p>The author addresses the theme of minority integration into society and the creation of community structures that often remain unnoticed, unaccepted, or directly rejected. The work operates on the edge between the position of a privileged and oppressed subject—both individual and collective—and raises questions stemming from personal experience and collective living.</p>
-
-    <p>The figure of the individual, which appeared in the author's previous project, is further developed and shaped in this work—now as part of a larger whole, a group of beings with a similar intention and shared voice. A delicate language and poetic metaphors create space for inner reflection while leaving the viewer the possibility of free interpretation.</p>
-
-    <p>The core format of the work is performance, which, through layering intermedial approaches (sound, movement, space, light), creates a suggestive environment. The author draws from specific events—especially from her residency at Hide Park in Nitra in 2024—and from emotional responses connected to a place that itself exemplifies functional community life and shared space.</p>
-
-    <p>The project was realized within the FAVU Brno program and was also presented in the space of Nová Cvernovka in Bratislava.</p>
-
-    <p class="mt-2">May–June 2025, FAVU Brno &amp; Nová Cvernovka Bratislava, performer</p>
-  </EN>
-</Project>
-
 
 <Project thumbnail="rest_of_y.3/0.jpg" cz="rest of y" en="rest of y">
   <CZ>
