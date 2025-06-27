@@ -34,6 +34,8 @@ let photo;
             <li>julie.sulcova@icloud.com</li>
             <li><a href="julie_sulcova_cv_2024_5.pdf">CV</a></li>
             <li><a href="https://www.instagram.com/fiktivniodpad/">Instagram</a></li>
+            <li><a href="https://soundcloud.com/julie-ulcov-124260535">SoundCloud</a></li>
+
         </ul>
     </div>
 </div>
