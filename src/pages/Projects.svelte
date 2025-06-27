@@ -69,7 +69,10 @@
         <p class="mt-2">FAVU Brno, video installation, June 2025</p>
     </EN>
 
+    <div style="padding:56.25% 0 0 0;position:relative;">
         <iframe src="https://player.vimeo.com/video/1094716284" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="break the chain"></iframe>
+    </div>
+    <script src="https://player.vimeo.com/api/player.js"></script>
 </Project>
 <Project thumbnail="dres_cyklo.4/0.jpg" cz="Design dresu pro cyklistickou komunitu cyclecomm" en="Jersey design for the cyclecomm cycling community">
     <Folder folder="dres_cyklo.4"></Folder>
