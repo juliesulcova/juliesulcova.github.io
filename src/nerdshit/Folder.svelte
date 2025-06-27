@@ -7,8 +7,10 @@
 
 </script>
 
-<Carousel>
-    {#each {length: count}, i}
-        <img src="{folder}/{i}.jpg" alt="" class="w-50"> 
-    {/each}
-</Carousel>
+<div class="mb-3">
+    <Carousel>
+        {#each {length: count}, i}
+            <img src="{folder}/{i}.jpg" alt="" class="h-50"> 
+        {/each}
+    </Carousel>
+</div>

@@ -13,9 +13,9 @@
 
 {#if opened}
     <PopUp bind:state={opened}>
-        <div class="bg-white w-screen m-1 sm:w-3/4 h-3/4 p-4">
+        <div class="bg-white w-screen m-1 sm:w-3/4 h-3/4 p-4 overflow-scroll">
             <div class="w-full flex justify-between pr-2 mb-2 cursor-pointer" on:click={() => opened = false}>
-                <div class="text-lg">{name}</div>
+                <h2>{name}</h2>
                 <div>X</div> 
             </div>
             <slot></slot>
