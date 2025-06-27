@@ -1,10 +1,8 @@
 <script>
-
     import Carousel from "./Carousel.svelte";
 
     export let folder;
     let count = folder.split('.')[1];
-
 </script>
 
 <div class="mb-3">

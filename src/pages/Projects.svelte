@@ -41,6 +41,206 @@
     </div>
     <script src="https://player.vimeo.com/api/player.js"></script>
 </Project>
+<Project thumbnail="dres_cyklo.4/0.jpg" cz="Design dresu pro cyklistickou komunitu cyclecomm" en="Jersey design for the cyclecomm cycling community">
+    <Folder folder="dres_cyklo.4"></Folder>
+
+    <CZ>
+        <p>Spolupráce s brněnskou cyklo komunitou a navrhnutí komunitního dresu a následná propagace, výrobu zajistit Bioracer, krom designu jsem uzavřela spolupráci i společným nafocením produktu.</p>
+        <a href="https://www.instagram.com/cyclecomm/">Instagram</a>
+        <p class="mt-2">Květen 2025</p>
+    </CZ>
+
+    <EN>
+        <p>Collaboration with the Brno-based cycling community to design a community jersey, followed by its promotion. Production was arranged through Bioracer. In addition to the design itself, I also collaborated on a joint product photoshoot.</p>
+        <a href="https://www.instagram.com/cyclecomm/">Instagram</a>
+        <p class="mt-2">Květen 2025</p>
+    </EN>
+</Project>
+<Project thumbnail="mitro.2/0.jpg" cz="Masterclass Michal Mitro: Vibrácie ako médiúm naprieč telami" en="Masterclass Michal Mitro: Vibrations as a Medium Across Bodies">
+  <Folder folder="mitro.2"></Folder>
+  <CZ>
+    <p><strong>Vibrace jako médium: if.lab workshop</strong></p>
+    <p>Praktické experimenty s kontaktními reproduktory a zvukovou kompozicí. Kromě zájmu o rozmanitost materiálů vnímáme vibrace jako univerzální médium.</p>
+    <p>Workshop od Michala Mitra, který pracuje s vibračním polem a jeho schopností být nositelem signálů a informací.</p>
+    <p class="mt-2">FAVU Brno, květen 2025 tvůrce objektu, workshop</p>
+  </CZ>
+  <EN>
+    <p><strong>Vibrations as a Medium: if.lab workshop</strong></p>
+    <p>Practical experiments with contact speakers and sound composition. Besides interest in diverse materials, we perceive vibrations as a universal medium.</p>
+    <p>A workshop by Michal Mitro who works with vibrational fields and their ability to carry signals and information.</p>
+    <p class="mt-2">FAVU Brno, May 2025 object creator, workshop</p>
+  </EN>
+</Project>
+<Project thumbnail="alzbeta.5/0.jpg" cz="Bakalářská performance Alžběty Papikové a kolektiv" en="Bachelor Performance by Alžběta Papiková and Collective">
+  <Folder folder="alzbeta.5"></Folder>
+  
+  <CZ>
+    <h3>chuť nahnitých sliviek mi pripomína čas pomaly odísť</h3>
+
+    <p>Autorka otvára tému začleňovania menšín do spoločnosti a vytvárania komunitných štruktúr, ktoré zostávajú často nepovšimnuté, neprijaté či priamo odmietané. V práci sa pohybuje na hrane medzi pozíciou privilegovaného a utlačovaného subjektu – jedinca aj kolektívu – a kladie si otázky vychádzajúce z osobnej skúsenosti aj z kolektívneho prežívania.</p>
+
+    <p>Postava jednotlivca, ktorá sa objavila už v predchádzajúcom autorkinom projekte, sa v tomto diele ďalej rozvíja a formuje – teraz ako súčasť širšieho celku, skupiny bytostí s podobným zámerom a spoločným hlasom. Jemný jazyk a poetické metafory vytvárajú priestor na vnútorné zamyslenie a zároveň ponechávajú divákovi možnosť slobodnej interpretácie.</p>
+
+    <p>Nosným formátom diela je performance, ktorá vrstvením intermediálnych prístupov (zvuk, pohyb, priestor, svetlo) vytvára sugestívne prostredie. Autorka čerpá z konkrétnych udalostí – najmä zo svojho rezidenčného pobytu v Hide Parku v Nitre v roku 2024 – a z emocionálnych odoziev spojených s miestom, ktoré je samo príkladom funkčného komunitného života a spoluzdieľania priestoru.</p>
+
+    <p>Projekt sa uskutočnil v rámci programu FAVU Brno a bol prezentovaný aj v priestore Novej Cvernovky v Bratislave.</p>
+
+    <p class="mt-2">Květen–červen 2025, FAVU Brno &amp; Nová Cvernovka Bratislava, performer</p>
+  </CZ>
+
+  <EN>
+    <h3>the taste of rotten plums reminds me it’s time to slowly leave</h3>
+
+    <p>The author addresses the theme of minority integration into society and the creation of community structures that often remain unnoticed, unaccepted, or directly rejected. The work operates on the edge between the position of a privileged and oppressed subject—both individual and collective—and raises questions stemming from personal experience and collective living.</p>
+
+    <p>The figure of the individual, which appeared in the author's previous project, is further developed and shaped in this work—now as part of a larger whole, a group of beings with a similar intention and shared voice. A delicate language and poetic metaphors create space for inner reflection while leaving the viewer the possibility of free interpretation.</p>
+
+    <p>The core format of the work is performance, which, through layering intermedial approaches (sound, movement, space, light), creates a suggestive environment. The author draws from specific events—especially from her residency at Hide Park in Nitra in 2024—and from emotional responses connected to a place that itself exemplifies functional community life and shared space.</p>
+
+    <p>The project was realized within the FAVU Brno program and was also presented in the space of Nová Cvernovka in Bratislava.</p>
+
+    <p class="mt-2">May–June 2025, FAVU Brno &amp; Nová Cvernovka Bratislava, performer</p>
+  </EN>
+</Project>
+
+
+<Project thumbnail="rest_of_y.3/0.jpg" cz="rest of y" en="rest of y">
+  <CZ>
+    <Folder folder="rest_of_y.3"></Folder>
+    <p>Rest of y je hudební duo, které propojuje improvizaci s předem připravenými elektronickými
+      hudebními strukturami a houslovým performativním live výstupem. Obě členky (Julie Šulcová,
+      Kristýna Popirecinii) hrají na housle, jejichž zvuk je různě modifikován a přetvářen pomocí efektů a
+      prolíná se tak s ambientním strukturovitým podkladem. Hudba rest of y se zaměřuje na téma
+      odpočinku a relaxace, a zároveň vybízí posluchače k hlubšímu ponoření do prožitku.</p>
+
+    <p class="mt-2">Kafara, Brno 1.2.2025 performer</p>
+  </CZ>
+  <EN>
+    <Folder folder="rest_of_y.3"></Folder>
+    <p>Rest of y is a musical duo combining improvisation with pre-prepared electronic
+      musical structures and violin performative live output. Both members (Julie Šulcová,
+      Kristýna Popirecinii) play violins whose sound is variously modified and transformed with effects and
+      merges with an ambient, structured background. The music of rest of y focuses on the theme
+      of rest and relaxation, while inviting listeners to a deeper immersion in the experience.</p>
+
+    <p class="mt-2">Kafara, Brno 1.2.2025 performer</p>
+  </EN>
+</Project>
+
+<Project thumbnail="houserules.7/0.jpg" cz="House rules- Fáze performativní workshop" en="House Rules – Phase Performative Workshop">
+    <Folder folder="houserules.7"></Folder>
+
+    <CZ>
+        <p>House Rules: Safety and Respect byla participační pohybová performance, zaměřující se na současná pravidla v klubech, která určitým způsobem reflektují autorčin přístup a pohled na to, co pro ni znamená safe-space.</p>
+        <p>Performance se skládala z cvičení vycházejících z dramatické výchovy, zaměřených na důvěru, vnímání a fyzické propojení mezi účastníky, často s páskou přes oči a vedením pohybem skrz klubový prostor. Performance doplnil ambientní set autorky, který celkový prožitek podtrhl.</p>
+        <p class="mt-2">Prosinec 2024 Brno klub Fáze, performance, performer</p>
+    </CZ>
+
+    <EN>
+        <p>*House Rules: Safety and Respect* was a participatory movement performance reflecting the author’s view of what a safe space means in the context of club culture.</p>
+        <p>The performance included drama-based physical exercises focused on building trust and bodily connection between participants, often involving blindfolded movement led by a partner. The sensory experience was accompanied by the author's ambient DJ set, emphasizing atmosphere and immersion.</p>
+        <p class="mt-2">December 2024, Brno – Klub Fáze, performance, performer</p>
+    </EN>
+</Project>
+
+<Project thumbnail="nebal.4/0.jpg" cz="Nebál/ tatto" en="Nebál/ tattoo">
+    <Folder folder="nebal.4"></Folder>
+    <h3>
+        <CZ>Trochu bál, trochu párty, trochu cirkus, trochu art</CZ>
+        <EN>A little fear, a little party, a little circus, a little art</EN>
+    </h3>
+
+    <p>
+        <CZ>V každém z nás žije alter ego, které máme možná tendenci skrývat. Ve snu, ale pravidla a hranice
+        neexistují, tam jsme svobodní!</CZ>
+        <EN>Inside each of us lives an alter ego that we may tend to hide. But in a dream, rules and boundaries
+        do not exist, there we are free!</EN>
+    </p>
+
+    <p>
+        <CZ>Tvůrci akce mě oslovili jakožto tatto artist, abych na eventu tetovala ovšem jen tečku, každému kdo
+        si pro ni přijde. Dostala jsem zadání že mohu tetovat pouze tečky a to tmavě modrou barvou.</CZ>
+        <EN>The event creators contacted me as a tattoo artist to tattoo only a dot at the event for everyone who
+        came for it. I was instructed to tattoo only dots in dark blue color.</EN>
+    </p>
+
+    <p>
+        <CZ>Konceptem akce bylo zanechat v návštěvníkovi nezapomenutelnou vzpomínku a zážitek. Celkem
+        jsem potetovala na akci 130 návštěvníků. Po celý večer kdy jsem tetovala vždy jednoho člověka tak
+        minimálně dvacet dalších přihlíželo procesu tetování, byla to pro mě zcela nová zkušenost a pocit.
+        Jelikož když tetuji tak to většinou probíhá tak že jsem jeden na jednoho v prostoru studia. Event mi
+        umožnil podívat se na proces tetování jako na performativní událost a zavnímat se tak jako součást
+        rituálu v ten večer.</CZ>
+        <EN>The concept of the event was to leave visitors with an unforgettable memory and experience. I tattooed
+        130 visitors in total. Throughout the evening, while tattooing one person at a time, at least twenty others
+        watched the tattooing process, which was a completely new experience and feeling for me.
+        Usually, when I tattoo, it is one-on-one in the studio space. The event allowed me to see the tattooing
+        process as a performative event and to feel part of a ritual that evening.</EN>
+    </p>
+
+    <p class="mt-2">
+        <CZ>9.9.2023 Brno Nová Zbrojovka. 7.9.2024</CZ>
+        <EN>9.9.2023 Brno Nová Zbrojovka. 7.9.2024</EN>
+    </p>
+</Project>
+
+<Project thumbnail="masterclass.jpg" cz="Masterclass s Stéphanie N’Duhirahe: Jak prezentovat tělo v prostoru pomocí obrazu" en="Masterclass with Stéphanie N’Duhirahe: How to Present the Body in Space Through Image">
+  <div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://player.vimeo.com/video/1095681166?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="how to present your body in space"></iframe>
+  </div>
+  <script src="https://player.vimeo.com/api/player.js"></script>
+  <CZ>
+    <p>Spektem video tvorby Stéphanie Nyota NDuhirahe je použití tohoto média jako prostředku psaní a popisu každodenního života nebo vybraného momentu. Během určitého časového období Stéphanie zachytává zvuky a natáčí mnoho krátkých sekvencí, které rychle a spontánně skládá dohromady, čímž vytváří videa, která vnímá jako deníky. Kamera je zde využita jako tužka, která by rychle načrtla skici do zápisníku. Střih se tak stává místem experimentu nebo spíše hrou asociací nápadů, objektů, barev, zvuků a pohybů.</p>
+
+    <p>Zajímá ji také různé způsoby projekce jejích obrazů. Ráda si hraje s velikostí projekce a také se specifiky místa, kde je video prezentováno. Zajímá se o různé materiály (například mouka, kůže, sklo, kameny atd.), které při použití jako podklad pro její projekce dávají obrazu další význam a způsobují, že její videa se vyvíjejí, čímž se stávají více performativními a propojenými s přítomným okamžikem.</p>
+
+    <p>Stéphanie navrhuje pracovat s touto metodou video deníku a spontánního natáčení.</p>
+
+    <p class="mt-2">FAVU Brno 29.11.2024 workshop, performer</p>
+  </CZ>
+  <EN>
+    <p>The spectrum of Stéphanie Nyota NDuhirahe’s video work is the use of this medium as a means of writing and describing everyday life or a chosen moment. Over a certain period, Stéphanie captures sounds and shoots many short sequences, which she quickly and spontaneously assembles into videos she perceives as diaries. The camera is used here like a pencil that quickly sketches drafts into a notebook. Editing thus becomes a place of experiment or rather a play of associations of ideas, objects, colors, sounds, and movements.</p>
+
+    <p>She is also interested in various ways of projecting her images. She likes to play with the size of projection and with the specifics of the place where the video is presented. She is interested in different materials (for example, flour, leather, glass, stones, etc.), which, when used as a background for her projections, give the image further meaning and cause her videos to evolve, becoming more performative and connected with the present moment.</p>
+
+    <p>Stéphanie proposes working with this method of video diary and spontaneous shooting.</p>
+
+    <p class="mt-2">FAVU Brno 29.11.2024 workshop, performer</p>
+  </EN>
+</Project>
+
+<Project thumbnail="lofora.jpg" cz="Lofofora Lom" en="Lofofora Quarry">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/b95cGTWXQ18?si=VG05JShTfC6elTpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <CZ>
+    <p>Rákosí a průzračná voda, smočené nohy, klid. Zlínsko-brněnský kolektiv Lofofora hledal okamžiky, při kterých nám je dobře, kde najdeme vzájemnou empatii nebo i ty, které nám pomáhají se zotavit. K harmonii fauny a flóry Kurovického lomu se připojil zvuk i hudební a umělecký projev 7. září.</p>
+
+    <p>Návštěvníci si mohli užít workshopy, umělecké akce a instalace, koncerty na břehu i besedu a další aktivity prohlubující léčitelství, mentální i fyzickou pohodu a pospolitost. Get well soon!</p>
+
+    <p class="mt-2">Zlín, festival-produkce 7.9.2024</p>
+  </CZ>
+  <EN>
+    <p>Reeds and clear water, wet feet, calm. The Zlín-Brno collective Lofofora sought moments where we feel good, where we find mutual empathy, or even those that help us recover. On September 7th, sound and musical and artistic expression joined the harmony of the fauna and flora of the Kurovický quarry.</p>
+
+    <p>Visitors could enjoy workshops, artistic events and installations, concerts by the shore, discussions, and other activities deepening healing, mental and physical well-being, and community. Get well soon!</p>
+
+    <p class="mt-2">Zlín, festival production, 7.9.2024</p>
+  </EN>
+</Project>
+
+<Project thumbnail="zapomel.jpg" cz="Zapomělsem x fiktivní odpad" en="Zapomělsem x Fictional Waste">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CQfVCFgkbEg?si=w8W31eK8R2c2ad5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <CZ>
+    <p>Vizuálně hudební kolaborace na skladbách Aleše Macenauera aka Zapomělsem v podobě videoklipu a song coveru.</p>
+    <a href="https://open.spotify.com/album/4QxxCrZB6nsOD1meQLSHjS?si=sI1UQJoMSK-VWSB6iS84rA">Spotify</a>
+    <p class="mt-2">2023-2024 Brno track, grafika</p>
+  </CZ>
+  <EN>
+    <p>Visual and musical collaboration on tracks by Aleš Macenauer aka Zapomělsem, in the form of a music video and song cover.</p>
+    <a href="https://open.spotify.com/album/4QxxCrZB6nsOD1meQLSHjS?si=sI1UQJoMSK-VWSB6iS84rA">Spotify</a>
+    <p class="mt-2">2023-2024 Brno track, graphics</p>
+  </EN>
+</Project>
+
 <Project thumbnail="wellbeing.9/0.jpg" cz="Wellbeing" en="Wellbeing">
     <Folder folder="wellbeing.9"></Folder>
 
@@ -73,18 +273,93 @@
     </EN>
 </Project>
 
-<Project thumbnail="dres_cyklo.4/0.jpg" cz="Design dresu pro cyklistickou komunitu cyclecomm" en="Jersey design for the cyclecomm cycling community">
-    <Folder folder="dres_cyklo.4"></Folder>
+<Project thumbnail="jiny_svety.7/0.jpg" cz="jiny_svety //International art event Prague" en="jiny_svety // International Art Event, Prague">
+    <Folder folder="jiny_svety.7"></Folder>
 
     <CZ>
-        <p>Spolupráce s brněnskou cyklo komunitou a navrhnutí komunitního dresu a následná propagace, výrobu zajistit Bioracer, krom designu jsem uzavřela spolupráci i společným nafocením produktu.</p>
-        <a href="https://www.instagram.com/cyclecomm/">Instagram</a>
+        <h3>Jiny světy</h3>
+        <p>Jiny světy je mezinárodní umělecká akce, která se konala v prostorech kavárny Anežka v Praze, kde se setkali umělci z České republiky i ze zahraničí, aby se propojili, tvořili, vystupovali a navzájem inspirovali.</p>
+        <p><em>„Vidíme svět jinak, jsme z jiných uměleckých oborů a prostředí.“</em></p>
+        <p>Na eventu jsem pod mojí přezdívkou <strong>fiktivniodpad</strong> tetovala své motivy po celý čas a ostatní návštěvníci měli možnost přihlížet do procesu vzniku tetování.</p>
+        <p>2. 3. 2024 Praha</p>
     </CZ>
 
     <EN>
-        <p>Collaboration with the Brno-based cycling community to design a community jersey, followed by its promotion. Production was arranged through Bioracer. In addition to the design itself, I also collaborated on a joint product photoshoot.</p>
-        <a href="https://www.instagram.com/cyclecomm/">Instagram</a>
+        <h3>Jiny světy</h3>
+        <p>Jiny světy (Different Worlds) was an international art event held at Café Anežka in Prague, where artists from the Czech Republic and abroad came together to connect, create, perform, and inspire one another.</p>
+        <p><em>“We see the world differently—we come from different artistic fields and backgrounds.”</em></p>
+        <p>Throughout the event, I worked under my alias <strong>fiktivniodpad</strong>, tattooing my own designs live while visitors could observe the process.</p>
+        <p>March 2, 2024 – Prague</p>
     </EN>
+</Project>
+
+<Project thumbnail="kruh.9/0.jpg" cz="kruh/pohybová performance" en="kruh / movement performance">
+    <Folder folder="kruh.9"></Folder>
+
+    <CZ>
+        <h3>Klauzury z pohybového divadla</h3>
+        <p>Zadáním bylo vybrat si hudební skladbu a na ni vytvořit pohybovou performance ve skupině.</p>
+        <p>Spolu s Marií Hótovou jsme zvolily skladbu *Pulk* od Radiohead. Proces začal výtvarným zaznamenáváním hudby, pokračoval přes analýzu nálad a emocí, až po choreografii.</p>
+        <p>Témata performance: uzavřený prostor, tlak, nemožnost úniku, lov, destrukce.</p>
+        <p>Výsledná performance trvala 10 minut, odehrávala se v kruhu znázorňujícím hlavu člověka, ve které spolu bojují dvě síly—ani jedna nemůže odejít.</p>
+        <p class="mt-2">Březen 2024 – JAMU, Brno, performance</p>
+    </CZ>
+
+    <EN>
+        <h3>Movement Theatre Final Performance</h3>
+        <p>The assignment was to choose a music track and create a group movement performance.</p>
+        <p>Together with Marie Hótová, we chose *Pulk* by Radiohead. The process started with drawing the music, continued through emotional and thematic interpretation, and led to choreography.</p>
+        <p>The main themes: confinement, pressure, inescapability, hunting, destruction.</p>
+        <p>The final 10-minute performance took place inside a circle symbolizing the human mind—a space where two forces battle continuously, neither able to disappear.</p>
+        <p class="mt-2">March 2024 – JAMU, Brno, performance</p>
+    </EN>
+</Project>
+
+<Project thumbnail="lofofora.6/0.jpg" cz="LOFOFORA" en="LOFOFORA">
+    <Folder folder="lofofora.6"></Folder>
+    <p>
+        <CZ>TINKTURA je nová koncertní série kolektivu Lofofora přinášející do Zlína současnou alternativní hudbu, workshopy a výtvarné umění zasazené do překvapivé scénografie.</CZ>
+        <EN>TINKTURA is a new concert series by the Lofofora collective bringing contemporary alternative music, workshops, and visual art to Zlín set within a surprising scenography.</EN>
+    </p>
+
+    <h3>
+        <CZ>Line up tvořili:</CZ>
+        <EN>The lineup consisted of:</EN>
+    </h3>
+    <ul>
+        <li>
+            <b>Fæ Bestia</b> - 
+            <CZ>zpěvačka a producentka, jejíž multižánrově experimentující písně, vyznačující se v temných, éterických, silných i cíleně naivních melodiích a textech zanesou posluchače do různých světů, tělesných podob a nálad.</CZ>
+            <EN>a singer and producer whose multi-genre experimental songs, characterized by dark, ethereal, strong, and intentionally naive melodies and lyrics, transport listeners into various worlds, bodily forms, and moods.</EN>
+        </li>
+        <li>
+            <b>Zaffer 9</b> - 
+            <CZ>duo vyznačující se především pronikavým zpěvem a křikem v doprovodu post-clubové elektroniky. Z9 kombinují prvky witch housu se žánry jako je glitchcore, techno či hyperpop, čímž vytváří až bizarní střetnutí hravosti a temnoty.</CZ>
+            <EN>a duo known primarily for piercing vocals and screams accompanied by post-club electronics. Z9 combines elements of witch house with genres like glitchcore, techno, and hyperpop, creating a bizarre clash of playfulness and darkness.</EN>
+        </li>
+        <li>
+            <b>DJ LARCH</b> - 
+            <CZ>Post-club, grime, amapiano. Součástí večera byl výstavní cyklus Tiny Gallery, v rámci kterého představili své práce současné výtvarné umělectvo. Instalace byly poschovávané ve všech zákoutích industriálního prostoru.</CZ>
+            <EN>Post-club, grime, amapiano. The evening included the Tiny Gallery exhibition cycle, where contemporary visual artists presented their works. Installations were hidden throughout the corners of the industrial space.</EN>
+        </li>
+    </ul>
+
+    <h3>
+        <CZ>V rámci cyklu Tiny Gallery vystavovali:</CZ>
+        <EN>Exhibitors in the Tiny Gallery cycle included:</EN>
+    </h3>
+    <ul>
+        <li><CZ>Anna Slama a Marek Delong</CZ><EN>Anna Slama and Marek Delong</EN></li>
+        <li><CZ>Stanislava Hudecová</CZ><EN>Stanislava Hudecová</EN></li>
+        <li><CZ>Alžbětko Vocelové</CZ><EN>Alžbětka Vocelová</EN></li>
+        <li><CZ>Martin Hudák</CZ><EN>Martin Hudák</EN></li>
+        <li><CZ>Tomáš Staněk</CZ><EN>Tomáš Staněk</EN></li>
+    </ul>
+
+    <p class="mt-2">
+        <CZ>9.3.2024 koncert / výstava</CZ>
+        <EN>March 9, 2024 concert / exhibition</EN>
+    </p>
 </Project>
 
 <Project thumbnail="fiktivniodpad_printy.3/0.jpg" cz="fiktivní odpad/printy" en="fiktivní odpad/prints">
@@ -187,22 +462,6 @@
         <p class="mt-2">Květen 2023 divadlo, grafika</p>
     </CZ>
 </Project>
-
-<Project thumbnail="houserules.7/0.jpg" cz="House rules- Fáze performativní workshop" en="House Rules – Phase Performative Workshop">
-    <Folder folder="houserules.7"></Folder>
-
-    <CZ>
-        <p>House Rules: Safety and Respect byla participační pohybová performance, zaměřující se na současná pravidla v klubech, která určitým způsobem reflektují autorčin přístup a pohled na to, co pro ni znamená safe-space.</p>
-        <p>Performance se skládala z cvičení vycházejících z dramatické výchovy, zaměřených na důvěru, vnímání a fyzické propojení mezi účastníky, často s páskou přes oči a vedením pohybem skrz klubový prostor. Performance doplnil ambientní set autorky, který celkový prožitek podtrhl.</p>
-        <p class="mt-2">Prosinec 2024 Brno klub Fáze, performance, performer</p>
-    </CZ>
-
-    <EN>
-        <p>*House Rules: Safety and Respect* was a participatory movement performance reflecting the author’s view of what a safe space means in the context of club culture.</p>
-        <p>The performance included drama-based physical exercises focused on building trust and bodily connection between participants, often involving blindfolded movement led by a partner. The sensory experience was accompanied by the author's ambient DJ set, emphasizing atmosphere and immersion.</p>
-        <p class="mt-2">December 2024, Brno – Klub Fáze, performance, performer</p>
-    </EN>
-</Project>
 <Project thumbnail="in_my_soul.4/0.jpg" cz="Album in my mind/ in my soul" en="Album In My Mind / In My Soul">
     <Folder folder="in_my_soul.4"></Folder>
 
@@ -236,26 +495,6 @@
         <p>The JAMŮví Festival showcases audiovisual works created at the Theatre Faculty of the Janáček Academy of Performing Arts. The first edition took place in 2018.</p>
         <p>In 2022, I exhibited several of my posters and animations at the festival. The animations were shown alongside the prints—ten short looping videos in total.</p>
         <p class="mt-2">November 2022</p>
-    </EN>
-</Project>
-
-<Project thumbnail="jiny_svety.7/0.jpg" cz="jiny_svety //International art event Prague" en="jiny_svety // International Art Event, Prague">
-    <Folder folder="jiny_svety.7"></Folder>
-
-    <CZ>
-        <h3>Jiny světy</h3>
-        <p>Jiny světy je mezinárodní umělecká akce, která se konala v prostorech kavárny Anežka v Praze, kde se setkali umělci z České republiky i ze zahraničí, aby se propojili, tvořili, vystupovali a navzájem inspirovali.</p>
-        <p><em>„Vidíme svět jinak, jsme z jiných uměleckých oborů a prostředí.“</em></p>
-        <p>Na eventu jsem pod mojí přezdívkou <strong>fiktivniodpad</strong> tetovala své motivy po celý čas a ostatní návštěvníci měli možnost přihlížet do procesu vzniku tetování.</p>
-        <p>2. 3. 2024 Praha</p>
-    </CZ>
-
-    <EN>
-        <h3>Jiny světy</h3>
-        <p>Jiny světy (Different Worlds) was an international art event held at Café Anežka in Prague, where artists from the Czech Republic and abroad came together to connect, create, perform, and inspire one another.</p>
-        <p><em>“We see the world differently—we come from different artistic fields and backgrounds.”</em></p>
-        <p>Throughout the event, I worked under my alias <strong>fiktivniodpad</strong>, tattooing my own designs live while visitors could observe the process.</p>
-        <p>March 2, 2024 – Prague</p>
     </EN>
 </Project>
 
@@ -304,75 +543,6 @@
 
         <p class="mt-2">Kamenka, Brno – May 2023, performance</p>
     </EN>
-</Project>
-
-<Project thumbnail="kruh.9/0.jpg" cz="kruh/pohybová performance" en="kruh / movement performance">
-    <Folder folder="kruh.9"></Folder>
-
-    <CZ>
-        <h3>Klauzury z pohybového divadla</h3>
-        <p>Zadáním bylo vybrat si hudební skladbu a na ni vytvořit pohybovou performance ve skupině.</p>
-        <p>Spolu s Marií Hótovou jsme zvolily skladbu *Pulk* od Radiohead. Proces začal výtvarným zaznamenáváním hudby, pokračoval přes analýzu nálad a emocí, až po choreografii.</p>
-        <p>Témata performance: uzavřený prostor, tlak, nemožnost úniku, lov, destrukce.</p>
-        <p>Výsledná performance trvala 10 minut, odehrávala se v kruhu znázorňujícím hlavu člověka, ve které spolu bojují dvě síly—ani jedna nemůže odejít.</p>
-        <p class="mt-2">Březen 2024 – JAMU, Brno, performance</p>
-    </CZ>
-
-    <EN>
-        <h3>Movement Theatre Final Performance</h3>
-        <p>The assignment was to choose a music track and create a group movement performance.</p>
-        <p>Together with Marie Hótová, we chose *Pulk* by Radiohead. The process started with drawing the music, continued through emotional and thematic interpretation, and led to choreography.</p>
-        <p>The main themes: confinement, pressure, inescapability, hunting, destruction.</p>
-        <p>The final 10-minute performance took place inside a circle symbolizing the human mind—a space where two forces battle continuously, neither able to disappear.</p>
-        <p class="mt-2">March 2024 – JAMU, Brno, performance</p>
-    </EN>
-</Project>
-
-<Project thumbnail="lofofora.6/0.jpg" cz="LOFOFORA" en="LOFOFORA">
-    <Folder folder="lofofora.6"></Folder>
-    <p>
-        <CZ>TINKTURA je nová koncertní série kolektivu Lofofora přinášející do Zlína současnou alternativní hudbu, workshopy a výtvarné umění zasazené do překvapivé scénografie.</CZ>
-        <EN>TINKTURA is a new concert series by the Lofofora collective bringing contemporary alternative music, workshops, and visual art to Zlín set within a surprising scenography.</EN>
-    </p>
-
-    <h3>
-        <CZ>Line up tvořili:</CZ>
-        <EN>The lineup consisted of:</EN>
-    </h3>
-    <ul>
-        <li>
-            <b>Fæ Bestia</b> - 
-            <CZ>zpěvačka a producentka, jejíž multižánrově experimentující písně, vyznačující se v temných, éterických, silných i cíleně naivních melodiích a textech zanesou posluchače do různých světů, tělesných podob a nálad.</CZ>
-            <EN>a singer and producer whose multi-genre experimental songs, characterized by dark, ethereal, strong, and intentionally naive melodies and lyrics, transport listeners into various worlds, bodily forms, and moods.</EN>
-        </li>
-        <li>
-            <b>Zaffer 9</b> - 
-            <CZ>duo vyznačující se především pronikavým zpěvem a křikem v doprovodu post-clubové elektroniky. Z9 kombinují prvky witch housu se žánry jako je glitchcore, techno či hyperpop, čímž vytváří až bizarní střetnutí hravosti a temnoty.</CZ>
-            <EN>a duo known primarily for piercing vocals and screams accompanied by post-club electronics. Z9 combines elements of witch house with genres like glitchcore, techno, and hyperpop, creating a bizarre clash of playfulness and darkness.</EN>
-        </li>
-        <li>
-            <b>DJ LARCH</b> - 
-            <CZ>Post-club, grime, amapiano. Součástí večera byl výstavní cyklus Tiny Gallery, v rámci kterého představili své práce současné výtvarné umělectvo. Instalace byly poschovávané ve všech zákoutích industriálního prostoru.</CZ>
-            <EN>Post-club, grime, amapiano. The evening included the Tiny Gallery exhibition cycle, where contemporary visual artists presented their works. Installations were hidden throughout the corners of the industrial space.</EN>
-        </li>
-    </ul>
-
-    <h3>
-        <CZ>V rámci cyklu Tiny Gallery vystavovali:</CZ>
-        <EN>Exhibitors in the Tiny Gallery cycle included:</EN>
-    </h3>
-    <ul>
-        <li><CZ>Anna Slama a Marek Delong</CZ><EN>Anna Slama and Marek Delong</EN></li>
-        <li><CZ>Stanislava Hudecová</CZ><EN>Stanislava Hudecová</EN></li>
-        <li><CZ>Alžbětko Vocelové</CZ><EN>Alžbětka Vocelová</EN></li>
-        <li><CZ>Martin Hudák</CZ><EN>Martin Hudák</EN></li>
-        <li><CZ>Tomáš Staněk</CZ><EN>Tomáš Staněk</EN></li>
-    </ul>
-
-    <p class="mt-2">
-        <CZ>9.3.2024 koncert / výstava</CZ>
-        <EN>March 9, 2024 concert / exhibition</EN>
-    </p>
 </Project>
 
 <Project thumbnail="louskacek.2/0.jpg" cz="Louskáček" en="The Nutcracker">
@@ -449,46 +619,6 @@
     <p class="mt-2">
         <CZ>Květen 2023- Říjen 2024 divadlo, herec</CZ>
         <EN>May 2023 – October 2024 theatre, actor</EN>
-    </p>
-</Project>
-<Project thumbnail="nebal.4/0.jpg" cz="Nebál/ tatto" en="Nebál/ tattoo">
-    <Folder folder="nebal.4"></Folder>
-    <h3>
-        <CZ>Trochu bál, trochu párty, trochu cirkus, trochu art</CZ>
-        <EN>A little fear, a little party, a little circus, a little art</EN>
-    </h3>
-
-    <p>
-        <CZ>V každém z nás žije alter ego, které máme možná tendenci skrývat. Ve snu, ale pravidla a hranice
-        neexistují, tam jsme svobodní!</CZ>
-        <EN>Inside each of us lives an alter ego that we may tend to hide. But in a dream, rules and boundaries
-        do not exist, there we are free!</EN>
-    </p>
-
-    <p>
-        <CZ>Tvůrci akce mě oslovili jakožto tatto artist, abych na eventu tetovala ovšem jen tečku, každému kdo
-        si pro ni přijde. Dostala jsem zadání že mohu tetovat pouze tečky a to tmavě modrou barvou.</CZ>
-        <EN>The event creators contacted me as a tattoo artist to tattoo only a dot at the event for everyone who
-        came for it. I was instructed to tattoo only dots in dark blue color.</EN>
-    </p>
-
-    <p>
-        <CZ>Konceptem akce bylo zanechat v návštěvníkovi nezapomenutelnou vzpomínku a zážitek. Celkem
-        jsem potetovala na akci 130 návštěvníků. Po celý večer kdy jsem tetovala vždy jednoho člověka tak
-        minimálně dvacet dalších přihlíželo procesu tetování, byla to pro mě zcela nová zkušenost a pocit.
-        Jelikož když tetuji tak to většinou probíhá tak že jsem jeden na jednoho v prostoru studia. Event mi
-        umožnil podívat se na proces tetování jako na performativní událost a zavnímat se tak jako součást
-        rituálu v ten večer.</CZ>
-        <EN>The concept of the event was to leave visitors with an unforgettable memory and experience. I tattooed
-        130 visitors in total. Throughout the evening, while tattooing one person at a time, at least twenty others
-        watched the tattooing process, which was a completely new experience and feeling for me.
-        Usually, when I tattoo, it is one-on-one in the studio space. The event allowed me to see the tattooing
-        process as a performative event and to feel part of a ritual that evening.</EN>
-    </p>
-
-    <p class="mt-2">
-        <CZ>9.9.2023 Brno Nová Zbrojovka. 7.9.2024</CZ>
-        <EN>9.9.2023 Brno Nová Zbrojovka. 7.9.2024</EN>
     </p>
 </Project>
 
@@ -650,29 +780,6 @@
         <EN>11.8.–11.12. 2022 Boskovice theatre, production</EN>
     </p>
 </Project>
-<Project thumbnail="rest_of_y.3/0.jpg" cz="rest of y" en="rest of y">
-  <CZ>
-    <Folder folder="rest_of_y.3"></Folder>
-    <p>Rest of y je hudební duo, které propojuje improvizaci s předem připravenými elektronickými
-      hudebními strukturami a houslovým performativním live výstupem. Obě členky (Julie Šulcová,
-      Kristýna Popirecinii) hrají na housle, jejichž zvuk je různě modifikován a přetvářen pomocí efektů a
-      prolíná se tak s ambientním strukturovitým podkladem. Hudba rest of y se zaměřuje na téma
-      odpočinku a relaxace, a zároveň vybízí posluchače k hlubšímu ponoření do prožitku.</p>
-
-    <p class="mt-2">Kafara, Brno 1.2.2025 performer</p>
-  </CZ>
-  <EN>
-    <Folder folder="rest_of_y.3"></Folder>
-    <p>Rest of y is a musical duo combining improvisation with pre-prepared electronic
-      musical structures and violin performative live output. Both members (Julie Šulcová,
-      Kristýna Popirecinii) play violins whose sound is variously modified and transformed with effects and
-      merges with an ambient, structured background. The music of rest of y focuses on the theme
-      of rest and relaxation, while inviting listeners to a deeper immersion in the experience.</p>
-
-    <p class="mt-2">Kafara, Brno 1.2.2025 performer</p>
-  </EN>
-</Project>
-
 <Project thumbnail="sbor.14/0.jpg" cz="Workshop na motivy inscenace Sbor Divadla na Orl" en="Workshop inspired by the play Sbor at Divadlo na Orlí">
   <CZ>
     <Folder folder="sbor.14"></Folder>
@@ -831,110 +938,6 @@
   <EN>
     <p>Own practice at SŠUM took place in 2022, when I had the opportunity to work with the 3rd year - specialization in Dramatic Education during final exams. I collaborated with the studio’s pedagogical leadership and helped lead and implement scenographic processing of the exams. I also created the overall visual and promotion of the project after consultation with the students.</p>
     <p class="mt-2">December 2022 Brno</p>
-  </EN>
-</Project>
-
-<Project thumbnail="masterclass.jpg" cz="Masterclass s Stéphanie N’Duhirahe: Jak prezentovat tělo v prostoru pomocí obrazu" en="Masterclass with Stéphanie N’Duhirahe: How to Present the Body in Space Through Image">
-  <div style="padding:56.25% 0 0 0;position:relative;">
-    <iframe src="https://player.vimeo.com/video/1095681166?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="how to present your body in space"></iframe>
-  </div>
-  <script src="https://player.vimeo.com/api/player.js"></script>
-  <CZ>
-    <p>Spektem video tvorby Stéphanie Nyota NDuhirahe je použití tohoto média jako prostředku psaní a popisu každodenního života nebo vybraného momentu. Během určitého časového období Stéphanie zachytává zvuky a natáčí mnoho krátkých sekvencí, které rychle a spontánně skládá dohromady, čímž vytváří videa, která vnímá jako deníky. Kamera je zde využita jako tužka, která by rychle načrtla skici do zápisníku. Střih se tak stává místem experimentu nebo spíše hrou asociací nápadů, objektů, barev, zvuků a pohybů.</p>
-
-    <p>Zajímá ji také různé způsoby projekce jejích obrazů. Ráda si hraje s velikostí projekce a také se specifiky místa, kde je video prezentováno. Zajímá se o různé materiály (například mouka, kůže, sklo, kameny atd.), které při použití jako podklad pro její projekce dávají obrazu další význam a způsobují, že její videa se vyvíjejí, čímž se stávají více performativními a propojenými s přítomným okamžikem.</p>
-
-    <p>Stéphanie navrhuje pracovat s touto metodou video deníku a spontánního natáčení.</p>
-
-    <p class="mt-2">FAVU Brno 29.11.2024 workshop, performer</p>
-  </CZ>
-  <EN>
-    <p>The spectrum of Stéphanie Nyota NDuhirahe’s video work is the use of this medium as a means of writing and describing everyday life or a chosen moment. Over a certain period, Stéphanie captures sounds and shoots many short sequences, which she quickly and spontaneously assembles into videos she perceives as diaries. The camera is used here like a pencil that quickly sketches drafts into a notebook. Editing thus becomes a place of experiment or rather a play of associations of ideas, objects, colors, sounds, and movements.</p>
-
-    <p>She is also interested in various ways of projecting her images. She likes to play with the size of projection and with the specifics of the place where the video is presented. She is interested in different materials (for example, flour, leather, glass, stones, etc.), which, when used as a background for her projections, give the image further meaning and cause her videos to evolve, becoming more performative and connected with the present moment.</p>
-
-    <p>Stéphanie proposes working with this method of video diary and spontaneous shooting.</p>
-
-    <p class="mt-2">FAVU Brno 29.11.2024 workshop, performer</p>
-  </EN>
-</Project>
-
-<Project thumbnail="lofora.jpg" cz="Lofofora Lom" en="Lofofora Quarry">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/b95cGTWXQ18?si=VG05JShTfC6elTpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <CZ>
-    <p>Rákosí a průzračná voda, smočené nohy, klid. Zlínsko-brněnský kolektiv Lofofora hledal okamžiky, při kterých nám je dobře, kde najdeme vzájemnou empatii nebo i ty, které nám pomáhají se zotavit. K harmonii fauny a flóry Kurovického lomu se připojil zvuk i hudební a umělecký projev 7. září.</p>
-
-    <p>Návštěvníci si mohli užít workshopy, umělecké akce a instalace, koncerty na břehu i besedu a další aktivity prohlubující léčitelství, mentální i fyzickou pohodu a pospolitost. Get well soon!</p>
-
-    <p class="mt-2">Zlín, festival-produkce 7.9.2024</p>
-  </CZ>
-  <EN>
-    <p>Reeds and clear water, wet feet, calm. The Zlín-Brno collective Lofofora sought moments where we feel good, where we find mutual empathy, or even those that help us recover. On September 7th, sound and musical and artistic expression joined the harmony of the fauna and flora of the Kurovický quarry.</p>
-
-    <p>Visitors could enjoy workshops, artistic events and installations, concerts by the shore, discussions, and other activities deepening healing, mental and physical well-being, and community. Get well soon!</p>
-
-    <p class="mt-2">Zlín, festival production, 7.9.2024</p>
-  </EN>
-</Project>
-
-<Project thumbnail="zapomel.jpg" cz="Zapomělsem x fiktivní odpad" en="Zapomělsem x Fictional Waste">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/CQfVCFgkbEg?si=w8W31eK8R2c2ad5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <CZ>
-    <p>Vizuálně hudební kolaborace na skladbách Aleše Macenauera aka Zapomělsem v podobě videoklipu a song coveru.</p>
-    <a href="https://open.spotify.com/album/4QxxCrZB6nsOD1meQLSHjS?si=sI1UQJoMSK-VWSB6iS84rA">Spotify</a>
-    <p class="mt-2">2023-2024 Brno track, grafika</p>
-  </CZ>
-  <EN>
-    <p>Visual and musical collaboration on tracks by Aleš Macenauer aka Zapomělsem, in the form of a music video and song cover.</p>
-    <a href="https://open.spotify.com/album/4QxxCrZB6nsOD1meQLSHjS?si=sI1UQJoMSK-VWSB6iS84rA">Spotify</a>
-    <p class="mt-2">2023-2024 Brno track, graphics</p>
-  </EN>
-</Project>
-
-<Project thumbnail="mitro.2/0.jpg" cz="Masterclass Michal Mitro: Vibrácie ako médiúm naprieč telami" en="Masterclass Michal Mitro: Vibrations as a Medium Across Bodies">
-  <Folder folder="mitro.2"></Folder>
-  <CZ>
-    <p><strong>Vibrace jako médium: if.lab workshop</strong></p>
-    <p>Praktické experimenty s kontaktními reproduktory a zvukovou kompozicí. Kromě zájmu o rozmanitost materiálů vnímáme vibrace jako univerzální médium.</p>
-    <p>Workshop od Michala Mitra, který pracuje s vibračním polem a jeho schopností být nositelem signálů a informací.</p>
-    <p class="mt-2">FAVU Brno, květen 2025 tvůrce objektu, workshop</p>
-  </CZ>
-  <EN>
-    <p><strong>Vibrations as a Medium: if.lab workshop</strong></p>
-    <p>Practical experiments with contact speakers and sound composition. Besides interest in diverse materials, we perceive vibrations as a universal medium.</p>
-    <p>A workshop by Michal Mitro who works with vibrational fields and their ability to carry signals and information.</p>
-    <p class="mt-2">FAVU Brno, May 2025 object creator, workshop</p>
-  </EN>
-</Project>
-<Project thumbnail="alzbeta.5/0.jpg" cz="Bakalářská performance Alžběty Papikové a kolektiv" en="Bachelor Performance by Alžběta Papiková and Collective">
-  <Folder folder="alzbeta.5"></Folder>
-  
-  <CZ>
-    <h3>chuť nahnitých sliviek mi pripomína čas pomaly odísť</h3>
-
-    <p>Autorka otvára tému začleňovania menšín do spoločnosti a vytvárania komunitných štruktúr, ktoré zostávajú často nepovšimnuté, neprijaté či priamo odmietané. V práci sa pohybuje na hrane medzi pozíciou privilegovaného a utlačovaného subjektu – jedinca aj kolektívu – a kladie si otázky vychádzajúce z osobnej skúsenosti aj z kolektívneho prežívania.</p>
-
-    <p>Postava jednotlivca, ktorá sa objavila už v predchádzajúcom autorkinom projekte, sa v tomto diele ďalej rozvíja a formuje – teraz ako súčasť širšieho celku, skupiny bytostí s podobným zámerom a spoločným hlasom. Jemný jazyk a poetické metafory vytvárajú priestor na vnútorné zamyslenie a zároveň ponechávajú divákovi možnosť slobodnej interpretácie.</p>
-
-    <p>Nosným formátom diela je performance, ktorá vrstvením intermediálnych prístupov (zvuk, pohyb, priestor, svetlo) vytvára sugestívne prostredie. Autorka čerpá z konkrétnych udalostí – najmä zo svojho rezidenčného pobytu v Hide Parku v Nitre v roku 2024 – a z emocionálnych odoziev spojených s miestom, ktoré je samo príkladom funkčného komunitného života a spoluzdieľania priestoru.</p>
-
-    <p>Projekt sa uskutočnil v rámci programu FAVU Brno a bol prezentovaný aj v priestore Novej Cvernovky v Bratislave.</p>
-
-    <p class="mt-2">Květen–červen 2025, FAVU Brno &amp; Nová Cvernovka Bratislava, performer</p>
-  </CZ>
-
-  <EN>
-    <h3>the taste of rotten plums reminds me it’s time to slowly leave</h3>
-
-    <p>The author addresses the theme of minority integration into society and the creation of community structures that often remain unnoticed, unaccepted, or directly rejected. The work operates on the edge between the position of a privileged and oppressed subject—both individual and collective—and raises questions stemming from personal experience and collective living.</p>
-
-    <p>The figure of the individual, which appeared in the author's previous project, is further developed and shaped in this work—now as part of a larger whole, a group of beings with a similar intention and shared voice. A delicate language and poetic metaphors create space for inner reflection while leaving the viewer the possibility of free interpretation.</p>
-
-    <p>The core format of the work is performance, which, through layering intermedial approaches (sound, movement, space, light), creates a suggestive environment. The author draws from specific events—especially from her residency at Hide Park in Nitra in 2024—and from emotional responses connected to a place that itself exemplifies functional community life and shared space.</p>
-
-    <p>The project was realized within the FAVU Brno program and was also presented in the space of Nová Cvernovka in Bratislava.</p>
-
-    <p class="mt-2">May–June 2025, FAVU Brno &amp; Nová Cvernovka Bratislava, performer</p>
   </EN>
 </Project>
 
