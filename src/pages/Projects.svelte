@@ -10,16 +10,6 @@
 
     photo = null;
 
-    // co bylo v souboru ale nejsou obrazkyu
-    // nylon
-    // jamuvi 21
-    // more sea
-    // sitko 22
-    // wellbeing
-    // spotreba druhu
-    // masterclass 
-
-
 </script>
 <Page>
     <Grid>
@@ -377,6 +367,21 @@
         <p class="mt-2">2021–2023, designer</p>
     </EN>
 </Project>
+
+<Project thumbnail="more.6/0.jpg" cz="m o ř e" en="s e a">
+    <Folder folder="more.6"></Folder>
+    <CZ>
+        <p>výstup 2. ročníku ateliéru Divadlo a výchova z předmětu Pohybové divadlo pod vedením BcA.Jakuba Círa</p>
+        <p>co všechno zažijete pod hladinou v mořské hlubině a na (našem) dně?</p>    
+        <p class="mt-2">Prosinec 2022, herec</p>
+    </CZ>
+    <EN>
+        <p>performance of the 2nd year of the studio Theatre and Education from the subject of Movement Theatre under the guidance of BcA.Jakub Cír</p>
+        <p>what will you experience underwater in the deep sea and on (our) bottom?</p> 
+        <p class="mt-2">December 2022, actor</p>
+    </EN>
+</Project>
+
 <Project thumbnail="fiktivniodpad_vystava.6/0.jpg" cz="fiktivniodpad/výstava" en="fiktivniodpad/exhibition">
     <Folder folder="fiktivniodpad_vystava.6"></Folder>
 
