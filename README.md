@@ -45,4 +45,6 @@ nejlepsi je asi vzit kod, ktery reprezentuje jiny projekt, zkopirovat a upravit.
 
 vsechno edituj primo v githubu, kdyz budes chtit ulozit, klikni na commit changes. tady muzes napsat cos zmenila ale neni to nutne, pak commit. chvili pockas a mas to tam.
 
+Je mozny, ze kdyz budes delat hodne zmen, tak se nepropisou -- github ma mesicni limit. v takovym pripade mi napis a nejak to udelam. V idealnim pripade davej naraz co nejvic zmen
+
 kdyby cokoli, pis
