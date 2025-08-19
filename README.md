@@ -1,47 +1,48 @@
-# Svelte + Vite
+# Portfolio
 
-This template should help get you started developing with Svelte in Vite.
+Toto je tutorial jak upravovat portfolio. kdyby cokoli, pis
 
-## Recommended IDE Setup
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+## Co to je?????????
 
-## Need an official Svelte framework?
+GitHub. Vpodstate google drive pro programatory. Jednotlivy projekty jsou v tzv. repozitarich, kde krome samotnych souboru (kodu) najdes i dalsi veci, ktery te ale nemusi zajimat. Duvod, proc to pouzivas je, ze tady muzes upravovat kod, ktery se rovnou propise na web. Tohle byl nejjednodussi zpusob jak toho docilit. 
 
-Check out [SvelteKit](https://github.com/sveltejs/kit#readme), which is also powered by Vite. Deploy anywhere with its serverless-first approach and adapt to various platforms, with out of the box support for TypeScript, SCSS, and Less, and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
+## Co je pro me relevantni???????????????
 
-## Technical considerations
+Je tady hromada programatorskyho jargonu, ktery muzes s klidem ignorovat. Pro tebe je dulezita slozka **src** a v ni slozka **pages**. Tam je vsechno, co budes potrebovat editovat stran textu. 
 
-**Why use this over SvelteKit?**
+Dalsi relevantni je pro tebe slozka **public**, jak sis mohla vsimnout, programatori pojmenovavaji veci pekne debilne (z pohledu normalnich lidi). V tehle slozce jsou vsechny fotky (jen fotky prosim). Snazil jsem se najit zpusob jak efektivne mit vsechny fotky na jednom miste tak, aby se nacitaly na strankach, tohle je nejlepsi zpusob, ikdyz trochu nevsedni. Ve slozce public mas vzdycky slozku s nazvem projektu ke kteremu se vztahuje (muze se jmenovat jakkoli, ale aby v tom nebyl bordel, delej to takhle). Nazev slozky zahrnuje taky .cislo, kde cislo je pocet souboru ve slozce -- ja vim, je to debilni, ale omezi to mnozstvi kodu co musis psat. Soubory v te slozce pak musi mit nazev cislo.jpg, kde cislo je proadi te fotky a ano. zacina to nulou. programatori jsou divni lidi wtf. pro referenci viz ostatni slozky jak je to tam resene. ano, musi to byt v jpg.
 
-- It brings its own routing solution which might not be preferable for some users.
-- It is first and foremost a framework that just happens to use Vite under the hood, not a Vite app.
+Pokud budes chtit udelat neco, co neni tady, napis mi, neni problem.
 
-This template contains as little as possible to get started with Vite + Svelte, while taking into account the developer experience with regards to HMR and intellisense. It demonstrates capabilities on par with the other `create-vite` templates and is a good starting point for beginners dipping their toes into a Vite + Svelte project.
+## samotny kod
 
-Should you later need the extended capabilities and extensibility provided by SvelteKit, the template has been structured similarly to SvelteKit so that it is easy to migrate.
+Je to takova divna kombinace cestiny a anglictiny
 
-**Why `global.d.ts` instead of `compilerOptions.types` inside `jsconfig.json` or `tsconfig.json`?**
+Stranky jsou v jednotlivych souborech .svelte -> Uvodni stranka je About.svelte a tak dal.
 
-Setting `compilerOptions.types` shuts out all other types not explicitly listed in the configuration. Using triple-slash references keeps the default TypeScript setting of accepting type information from the entire workspace, while also adding `svelte` and `vite/client` type information.
+Pouziva se jazyk HTML, ktery funguje tak, ze se formatovani dela primo v textu. tim se lisi od napriklad wordu, kde rovnou vidis jak text vypada. tady to vidis az v prohlizeci. Kdyz chces napriklad udelat text tucny, napises text mezi `<em>ahoj</em>` -- princip znacek muzes videt v kodu.
 
-**Why include `.vscode/extensions.json`?**
+obsah znacky `script` ignoruj, dulezity je pro tebe obsah znacky `Page`.
 
-Other templates indirectly recommend extensions via the README, but this file allows VS Code to prompt the user to install the recommended extension upon opening the project.
+tady jsou nejake dalsi znacky
 
-**Why enable `checkJs` in the JS template?**
+- p -- odstavce
+- i -- italic
+- a -- odkaz (`<a href="odkaz">text s tim odkazem</a>`)
 
-It is likely that most cases of changing variable types in runtime are likely to be accidental, rather than deliberate. This provides advanced typechecking out of the box. Should you like to take advantage of the dynamically-typed nature of JavaScript, it is trivial to change the configuration.
+### Jazyky
 
-**Why is HMR not preserving my local component state?**
+Web umi cestinu a anglictinu, je nutne vkladat oba jazyky primo do kodu. funguje to nasledovne
 
-HMR state preservation comes with a number of gotchas! It has been disabled by default in both `svelte-hmr` and `@sveltejs/vite-plugin-svelte` due to its often surprising behavior. You can read the details [here](https://github.com/sveltejs/svelte-hmr/tree/master/packages/svelte-hmr#preservation-of-local-state).
+kdyz je text ve znacce EN, zobrazi se jen na anglicke verzi. A tedy kdyz je ve znacce CZ, zobrazi se jen na ceske.
 
-If you have state that's important to retain within a component, consider creating an external store which would not be replaced by HMR.
+### Pridavani projektu
 
-```js
-// store.js
-// An extremely simple external store
-import { writable } from 'svelte/store'
-export default writable(0)
-```
+nejlepsi je asi vzit kod, ktery reprezentuje jiny projekt, zkopirovat a upravit. Znacka folder je jmeno slozky s fotkama, ktera se vykresli. Tohle je ten duvod proc jsou fotky ulozeny tak debilne. Poradi projektu pod sebou odpovida poradi na webu
+
+## Nahravani a veci
+
+vsechno edituj primo v githubu, kdyz budes chtit ulozit, klikni na commit changes. tady muzes napsat cos zmenila ale neni to nutne, pak commit. chvili pockas a mas to tam.
+
+kdyby cokoli, pis
