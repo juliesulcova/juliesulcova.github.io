@@ -945,17 +945,5 @@
 </Project>
 
 
-<Project thumbnail="vlastni_praxe.5/0.jpg" cz="Projekt haha" en="Own Practice 2022">
-  <Folder folder="vlastni_praxe.5"></Folder>
-  <CZ>
-    <p>Vlastní praxe na SŠUM proběhla v roce 2022, kdy jsem měla možnost pracovat s 3.ročníkem- specializace Dramatická výchova na závěrečných klauzurách. Spolupracovala jsem s pedagogickým vedením ateliéru a pomáhala vést a realizovat scénografické zpracování klauzur. Tvořila jsem i celkový vizuál a propagaci projektu po konzultaci se studenty.</p>
-    <p class="mt-2">Prosinec 2022 Brno</p>
-  </CZ>
-  <EN>
-    <p>Own practice at SŠUM took place in 2022, when I had the opportunity to work with the 3rd year - specialization in Dramatic Education during final exams. I collaborated with the studio’s pedagogical leadership and helped lead and implement scenographic processing of the exams. I also created the overall visual and promotion of the project after consultation with the students.</p>
-    <p class="mt-2">December 2022 Brno</p>
-  </EN>
-</Project>
-
     </Grid>
 </Page>
