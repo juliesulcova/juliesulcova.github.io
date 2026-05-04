@@ -11,6 +11,17 @@
 
 <Page>
     <CZ>
+	<h3>AVU studijní stáž - Intermedia 3, Vaněk, Havlíček</h3>
+	<p>Únor-Červen 2026<br>
+	 Praha, Česká republika
+	</p>
+
+    	<h3>Visiting artist studio FAVU - Rebecca Salvadori</h3>
+	<p>Únor-květen 2025<br>
+	 Brno, Česká republika
+	</p>
+
+	
         <h3>Fakulta výtvarných umění, Vysoké učení technické v Brně (VUT)</h3>
         <p><em>Performance art</em><br>
         Září 2024 – současnost<br>
@@ -36,6 +47,15 @@
         Rájec-Jestřebí, Česká republika</p>
     </CZ>
     <EN>
+	<h3>AVU Study Internship - Intermedia 3, Vaněk, Havlíček</h3>
+	<p>February–June 2026<br>
+	Prague, Czech Republic
+	</p>
+
+	<h3>Visiting Artist Studio at FAVU - Rebecca Salvadori</h3>
+	<p>February–May 2025<br>
+	Brno, Czech Republic
+	</p>
         <h3>Faculty of Fine Arts, Brno University of Technology (VUT)</h3>
         <p><em>Performance Art</em><br>
         September 2024 – Present<br>

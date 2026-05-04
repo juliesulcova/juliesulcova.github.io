@@ -13,7 +13,7 @@
 </script>
 <Page>
     <Grid>
-<Project thumbnail="alzbeta.5/0.jpg" cz="Bakalářská performance Alžběty Papikové a kolektiv" en="Bachelor Performance by Alžběta Papiková and Collective">
+<Project thumbnail="alzbeta.5/0.jpg" cz="chuť nahnitých slivek mi pripomina čas pomaly odísť" en="the taste of rotten plums reminds me it’s time to slowly leave">
   <Folder folder="alzbeta.5"></Folder>
   
   <CZ>
@@ -76,21 +76,6 @@
         <p class="mt-2">Květen 2025</p>
     </EN>
 </Project>
-<Project thumbnail="mitro.2/0.jpg" cz="Masterclass Michal Mitro: Vibrácie ako médiúm naprieč telami" en="Masterclass Michal Mitro: Vibrations as a Medium Across Bodies">
-  <Folder folder="mitro.2"></Folder>
-  <CZ>
-    <p><strong>Vibrace jako médium: if.lab workshop</strong></p>
-    <p>Praktické experimenty s kontaktními reproduktory a zvukovou kompozicí. Kromě zájmu o rozmanitost materiálů vnímáme vibrace jako univerzální médium.</p>
-    <p>Workshop od Michala Mitra, který pracuje s vibračním polem a jeho schopností být nositelem signálů a informací.</p>
-    <p class="mt-2">FAVU Brno, květen 2025 tvůrce objektu, workshop</p>
-  </CZ>
-  <EN>
-    <p><strong>Vibrations as a Medium: if.lab workshop</strong></p>
-    <p>Practical experiments with contact speakers and sound composition. Besides interest in diverse materials, we perceive vibrations as a universal medium.</p>
-    <p>A workshop by Michal Mitro who works with vibrational fields and their ability to carry signals and information.</p>
-    <p class="mt-2">FAVU Brno, May 2025 object creator, workshop</p>
-  </EN>
-</Project>
 
 <Project thumbnail="rest_of_y.3/0.jpg" cz="rest of y" en="rest of y">
   <CZ>
@@ -129,47 +114,6 @@
         <p>The performance included drama-based physical exercises focused on building trust and bodily connection between participants, often involving blindfolded movement led by a partner. The sensory experience was accompanied by the author's ambient DJ set, emphasizing atmosphere and immersion.</p>
         <p class="mt-2">December 2024, Brno – Klub Fáze, performance, performer</p>
     </EN>
-</Project>
-
-<Project thumbnail="nebal.4/0.jpg" cz="Nebál/ tatto" en="Nebál/ tattoo">
-    <Folder folder="nebal.4"></Folder>
-    <h3>
-        <CZ>Trochu bál, trochu párty, trochu cirkus, trochu art</CZ>
-        <EN>A little fear, a little party, a little circus, a little art</EN>
-    </h3>
-
-    <p>
-        <CZ>V každém z nás žije alter ego, které máme možná tendenci skrývat. Ve snu, ale pravidla a hranice
-        neexistují, tam jsme svobodní!</CZ>
-        <EN>Inside each of us lives an alter ego that we may tend to hide. But in a dream, rules and boundaries
-        do not exist, there we are free!</EN>
-    </p>
-
-    <p>
-        <CZ>Tvůrci akce mě oslovili jakožto tatto artist, abych na eventu tetovala ovšem jen tečku, každému kdo
-        si pro ni přijde. Dostala jsem zadání že mohu tetovat pouze tečky a to tmavě modrou barvou.</CZ>
-        <EN>The event creators contacted me as a tattoo artist to tattoo only a dot at the event for everyone who
-        came for it. I was instructed to tattoo only dots in dark blue color.</EN>
-    </p>
-
-    <p>
-        <CZ>Konceptem akce bylo zanechat v návštěvníkovi nezapomenutelnou vzpomínku a zážitek. Celkem
-        jsem potetovala na akci 130 návštěvníků. Po celý večer kdy jsem tetovala vždy jednoho člověka tak
-        minimálně dvacet dalších přihlíželo procesu tetování, byla to pro mě zcela nová zkušenost a pocit.
-        Jelikož když tetuji tak to většinou probíhá tak že jsem jeden na jednoho v prostoru studia. Event mi
-        umožnil podívat se na proces tetování jako na performativní událost a zavnímat se tak jako součást
-        rituálu v ten večer.</CZ>
-        <EN>The concept of the event was to leave visitors with an unforgettable memory and experience. I tattooed
-        130 visitors in total. Throughout the evening, while tattooing one person at a time, at least twenty others
-        watched the tattooing process, which was a completely new experience and feeling for me.
-        Usually, when I tattoo, it is one-on-one in the studio space. The event allowed me to see the tattooing
-        process as a performative event and to feel part of a ritual that evening.</EN>
-    </p>
-
-    <p class="mt-2">
-        <CZ>9.9.2023 Brno Nová Zbrojovka. 7.9.2024</CZ>
-        <EN>9.9.2023 Brno Nová Zbrojovka. 7.9.2024</EN>
-    </p>
 </Project>
 
 <Project thumbnail="masterclass.jpg" cz="Masterclass s Stéphanie N’Duhirahe: Jak prezentovat tělo v prostoru pomocí obrazu" en="Masterclass with Stéphanie N’Duhirahe: How to Present the Body in Space Through Image">
@@ -261,27 +205,7 @@
     </EN>
 </Project>
 
-<Project thumbnail="jiny_svety.7/0.jpg" cz="jiny_svety //International art event Prague" en="jiny_svety // International Art Event, Prague">
-    <Folder folder="jiny_svety.7"></Folder>
-
-    <CZ>
-        <h3>Jiny světy</h3>
-        <p>Jiny světy je mezinárodní umělecká akce, která se konala v prostorech kavárny Anežka v Praze, kde se setkali umělci z České republiky i ze zahraničí, aby se propojili, tvořili, vystupovali a navzájem inspirovali.</p>
-        <p><em>„Vidíme svět jinak, jsme z jiných uměleckých oborů a prostředí.“</em></p>
-        <p>Na eventu jsem pod mojí přezdívkou <strong>fiktivniodpad</strong> tetovala své motivy po celý čas a ostatní návštěvníci měli možnost přihlížet do procesu vzniku tetování.</p>
-        <p>2. 3. 2024 Praha</p>
-    </CZ>
-
-    <EN>
-        <h3>Jiny světy</h3>
-        <p>Jiny světy (Different Worlds) was an international art event held at Café Anežka in Prague, where artists from the Czech Republic and abroad came together to connect, create, perform, and inspire one another.</p>
-        <p><em>“We see the world differently—we come from different artistic fields and backgrounds.”</em></p>
-        <p>Throughout the event, I worked under my alias <strong>fiktivniodpad</strong>, tattooing my own designs live while visitors could observe the process.</p>
-        <p>March 2, 2024 – Prague</p>
-    </EN>
-</Project>
-
-<Project thumbnail="kruh.9/0.jpg" cz="kruh/pohybová performance" en="kruh / movement performance">
+<Project thumbnail="kruh.9/0.jpg" cz="kruh" en="kruh">
     <Folder folder="kruh.9"></Folder>
 
     <CZ>
@@ -382,54 +306,6 @@
     </EN>
 </Project>
 
-<Project thumbnail="fiktivniodpad_vystava.6/0.jpg" cz="fiktivniodpad/výstava" en="fiktivniodpad/exhibition">
-    <Folder folder="fiktivniodpad_vystava.6"></Folder>
-
-    <CZ>
-        <p>Výstava probíhala v prostorech PROSTORU v Boskovicích.</p>
-        <p>Vernisáž byla doplněná o promítání kratších projekcí, rozžitých obrázků a mých grafik, které byly tvořeny k setu DJ Leafura, který několikrát proběhl v Praze, Ostravě a Brně v sezóně 2022.</p>
-        <p>S grafikou jen tak experimentuji, jsem samouk v této oblasti a tvořím jen čistě amatérsky a docela s ignorantským přístupem. Většina mých prací vzniká omylem nebo záměrnou deformací designu, součástí některých plakátů jsou i moje analogové fotografie nebo motivy z klasického umění.</p>
-        <p>Své práce jsem dlouho měla čistě jen v digitální podobě (digitálním šuplíku) a poprvé jsem se o ně rozhodla podělit i se světem materiálním.</p>
-        <p>Kolekce printů, které tvořím v rozmezí let 2021–2023, byla vystavena v:</p>
-        <ul>
-            <li>Brně (Anoda / Květen–Srpen)</li>
-            <li>Jihlavě (MB24)</li>
-            <li>Boskovice (Prostor / 3. 3. – 3. 4. 2023)</li>
-        </ul>
-    </CZ>
-
-    <EN>
-        <p>The exhibition took place at PROSTOR in Boskovice.</p>
-        <p>The opening featured short video projections, animated visuals, and my own graphics, originally created for DJ Leafura’s sets, which were held in Prague, Ostrava, and Brno during the 2022 season.</p>
-        <p>My approach to graphic design is purely experimental—I'm self-taught and work in an amateur, even deliberately “ignorant” way. Most of my work happens by accident or through intentional distortion of visual conventions. Some posters also include my analog photography or classical art motifs.</p>
-        <p>For a long time, these works existed only digitally—in a kind of digital drawer—until I decided to share them with the material world for the first time.</p>
-        <p>This print collection, created between 2021–2023, has been exhibited at:</p>
-        <ul>
-            <li>Brno (Anoda / May–August)</li>
-            <li>Jihlava (MB24)</li>
-            <li>Boskovice (Prostor / March 3 – April 3, 2023)</li>
-        </ul>
-    </EN>
-</Project>
-
-<Project thumbnail="futurenow.4/0.jpg" cz="Future=Now!" en="Future=Now!">
-    <Folder folder="futurenow.4"></Folder>
-
-    <CZ>
-        <p>Týdenní workshop autorského divadla, který v Ateliéru NDM vedl skotský mentor, herec a režisér devised theater Bradley Lewis Cannon.</p>
-        <p>V projektu Future = NOW! youth manifesto spolupracujeme s mladou generací na hledání průsečíků umění a aktivismu ve vztahu k současným tématům, která zásadním způsobem ovlivní podobu jejich života v budoucnosti a jsou tak logicky středobodem zájmu mladé generace.</p>
-        <p>Workshopu jsem se účastnila jako tvůrce/performer, ale zkušenost jsem brala i z pedagogického hlediska stylu práce se skupinou a jako inspiraci do praxe tvorby autorského divadla.</p>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/iR5T-vrNPw0?si=1Ufc4F0Gtt9wwuhl" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-    </CZ>
-
-    <EN>
-        <p>A week-long devised theatre workshop led by Scottish mentor, actor, and director Bradley Lewis Cannon, held at the NDM Studio.</p>
-        <p>The <i>Future = NOW!</i> youth manifesto project engages with the younger generation to explore the intersections of art and activism in relation to current topics that will significantly shape their future—naturally placing them at the center of youth interest.</p>
-        <p>I participated as a creator/performer, but also viewed the experience from a pedagogical perspective, focusing on group dynamics and gaining inspiration for authorial theatre work.</p>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/iR5T-vrNPw0?si=1Ufc4F0Gtt9wwuhl" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-    </EN>
-</Project>
-
 <Project thumbnail="gn_nobody.2/0.jpg" cz="Goodnight nobody" en="Goodnight nobody">
     <Folder folder="gn_nobody.2"></Folder>
 
@@ -485,22 +361,6 @@
     </EN>
 </Project>
 
-<Project thumbnail="jamuvi22.4/0.jpg" cz="JAMŮví 2022" en="JAMŮví 2022">
-    <Folder folder="jamuvi22.4"></Folder>
-
-    <CZ>
-        <p>Festival JAMŮví je přehlídkou audiovizuální tvorby vznikající na Divadelní fakultě Janáčkovy akademie múzických umění. První ročník se uskutečnil v roce 2018.</p>
-        <p>V roce 2022 jsem vystavovala na festivalu několik mých plakátů a animací. Animace se promítaly u vystavených printů, celkem to bylo 10 kratších videí ve smyčce.</p>
-        <p class="mt-2">Listopad 2022</p>
-    </CZ>
-
-    <EN>
-        <p>The JAMŮví Festival showcases audiovisual works created at the Theatre Faculty of the Janáček Academy of Performing Arts. The first edition took place in 2018.</p>
-        <p>In 2022, I exhibited several of my posters and animations at the festival. The animations were shown alongside the prints—ten short looping videos in total.</p>
-        <p class="mt-2">November 2022</p>
-    </EN>
-</Project>
-
 <Project thumbnail="kamenka.2/0.jpg" cz="Come to Kamenka" en="Come to Kamenka">
     <Folder folder="kamenka.2"></Folder>
 
@@ -546,44 +406,6 @@
 
         <p class="mt-2">Kamenka, Brno – May 2023, performance</p>
     </EN>
-</Project>
-
-<Project thumbnail="louskacek.2/0.jpg" cz="Louskáček" en="The Nutcracker">
-    <Folder folder="louskacek.2"></Folder>
-    <p>
-        <CZ><strong>Dílna k inscenaci Louskáček – NdB: Janáčkovo divadlo</strong></CZ>
-        <EN><strong>Workshop for the production The Nutcracker – NdB: Janáček Theatre</strong></EN>
-    </p>
-
-    <p>
-        <CZ><em>Obsah:</em><br>
-        – seznámení se základními principy baletu (pojem, základní pohyby)<br>
-        – seznámení se s postavami a dějem Louskáčka<br>
-        – ochutnávka cukrovinek podle čtyř národních tanců a kreativní pohybová práce<br>
-        – sdílení výstupů z pohybové práce<br>
-        – odůvodnění pohybové práce ve vztahu k Louskáčkovi</CZ>
-        <EN><em>Contents:</em><br>
-        – introduction to the basic principles of ballet (concept, basic movements)<br>
-        – introduction to the characters and storyline of The Nutcracker<br>
-        – tasting sweets inspired by the four national dances and creative movement activities<br>
-        – sharing outcomes from the movement work<br>
-        – explanation of the movement work in relation to The Nutcracker</EN>
-    </p>
-
-    <p>
-        <CZ>V projektu jsem působila jako jeden z lektorů, přičemž jsme měli předem připravená cvičení (viz osnova), díky kterým jsme společně s účastníky rozebrali principy a témata inscenace, prakticky a v prostoru. Tým lektorek byl tematicky oděn do kostýmů jednotlivých národních tanců z Louskáčka, a tomu odpovídalo i rozdělení aktivit. Já, jakožto představitelka španělského tance, jsem vedla úvodní část – seznámení s baletem a dějem inscenace, a připravila jsem poslechový kvíz zaměřený na rozpoznávání hudebních nástrojů z ukázek hudební složky Louskáčka.</CZ>
-        <EN>In the project, I worked as one of the instructors, with pre-prepared exercises (see syllabus) through which we analyzed the principles and themes of the production together with participants, practically and spatially. The team of instructors was thematically dressed in costumes of the individual national dances from The Nutcracker, which corresponded with the division of activities. As the representative of the Spanish dance, I led the introductory part – introducing ballet and the storyline of the production – and prepared a listening quiz focused on recognizing musical instruments from The Nutcracker’s musical excerpts.</EN>
-    </p>
-
-    <p>
-        <CZ>Po poslechové části jsme se přesunuli do pohybového prostoru, kde jsme společně vytvořili vlastní verzi španělského tance. S touto choreografií jsme se následně zúčastnili závěrečného „dance battlu“ v ringu společných tanců, kde měli účastníci možnost své výstupy představit ostatním.</CZ>
-        <EN>After the listening part, we moved into the movement space where we jointly created our own version of the Spanish dance. With this choreography, we then participated in the final “dance battle” in the ring of group dances, where participants had the opportunity to present their outputs to others.</EN>
-    </p>
-
-    <p class="mt-2">
-        <CZ>2022 Brno, edukativní dílna, lektor</CZ>
-        <EN>2022 Brno, educational workshop, instructor</EN>
-    </p>
 </Project>
 
 <Project thumbnail="mlceni_srdcove_damy.2/0.jpg" cz="Divadlo fórum- Mlčení srdcové dámy 2023" en="Forum Theatre - Silence of the Lady of Hearts 2023">
@@ -879,71 +701,6 @@
     <p class="mt-2">May 2023 Brno, performer</p>
   </EN>
 </Project>
-
-<Project thumbnail="spt22.2/0.jpg" cz="Salon původní tvorby 2022" en="Original Creation Salon 2022">
-  <CZ>
-    <Folder folder="spt22.2"></Folder>
-    <p>Salon původní tvorby je festival scénického čtení a inscenací na náměty původní tvorby podnětů studentů Divadelní fakulty Janáčkovy akademie múzických umění v Brně s již třicetiletou tradicí konání.</p>
-
-    <p>Na základě veřejné výzvy probíhá začátkem roku sběr autorských textů studentů Divadelní fakulty. Nedlouho poté je pořádána burza původních textů, na které si kdokoliv z řad studentů může vybrat konkrétní text, který následně zpracuje do podoby scénického čtení či divadelní inscenace.</p>
-
-    <p>V průběhu dvoudenního festivalu jsou pak tyto umělecké výstupy prezentovány na půdě Divadelní fakulty. V návaznosti na tuto studentskou produkci pak jako doprovodný festivalový program probíhají diskuze a přednášky.</p>
-
-    <p>V roce 2022 jsem se účastnila festivalu jako tvůrce audiovizuální/ pohybové etudy z pozice režie. Projekt byl na téma Národ budoucnosti a vycházel z autorského textu, který jsem převedla do pohybového/audiovizuálního tvaru.</p>
-
-    <p class="mt-2">Březen 2022 divadlo, režie</p>
-  </CZ>
-  <EN>
-    <Folder folder="spt22.2"></Folder>
-    <p>The Original Creation Salon is a festival of staged readings and performances based on original works by students of the Theatre Faculty of the Janáček Academy of Music and Performing Arts in Brno, with a thirty-year tradition.</p>
-
-    <p>At the beginning of the year, an open call collects original texts from Theatre Faculty students. Shortly thereafter, a market of original texts is held where any student can choose a specific text to develop into a staged reading or theatre production.</p>
-
-    <p>During the two-day festival, these artistic outputs are presented at the Theatre Faculty. Following this student production, discussions and lectures take place as accompanying festival programs.</p>
-
-    <p>In 2022, I participated in the festival as the creator of an audiovisual/movement etude in the role of director. The project was themed The Nation of the Future and was based on an original text that I transformed into a movement/audiovisual form.</p>
-
-    <p class="mt-2">March 2022 theatre, direction</p>
-  </EN>
-</Project>
-<Project thumbnail="spt23.4/0.jpg" cz="Salon původní tvorby 2023" en="Original Creation Salon 2023">
-  <Folder folder="spt23.4"></Folder>
-  <CZ>
-    <p>Salon původní tvorby je festival scénického čtení a inscenací na náměty původní tvorby podnětů studentů Divadelní fakulty Janáčkovy akademie múzických umění v Brně s již třicetiletou tradicí konání.</p>
-
-    <p>Na základě veřejné výzvy probíhá začátkem roku sběr autorských textů studentů Divadelní fakulty. Nedlouho poté je pořádána burza původních textů, na které si kdokoliv z řad studentů může vybrat konkrétní text, který následně zpracuje do podoby scénického čtení či divadelní inscenace.</p>
-
-    <p>V průběhu dvoudenního festivalu jsou pak tyto umělecké výstupy prezentovány na půdě Divadelní fakulty. V návaznosti na tuto studentskou produkci pak jako doprovodný festivalový program probíhají diskuze a přednášky.</p>
-
-    <p>V roce 2023 jsem se účastnila festivalu jako autor textů, ale i jako tvůrce krátké herecké etudy z pozice režie a herce.</p>
-
-    <p class="mt-2">Březen 2023 divadlo, režie</p>
-  </CZ>
-  <EN>
-    <p>The Original Creation Salon is a festival of staged readings and performances based on original works inspired by students of the Janáček Academy of Music and Performing Arts’ Theatre Faculty in Brno, with a tradition spanning thirty years.</p>
-
-    <p>At the beginning of the year, a public call gathers original texts from Theatre Faculty students. Shortly after, a marketplace of original texts is held, where any student can choose a specific text to adapt into a staged reading or theatrical production.</p>
-
-    <p>During the two-day festival, these artistic outputs are presented at the Theatre Faculty. Accompanying the student productions, discussions and lectures take place as part of the festival program.</p>
-
-    <p>In 2023, I participated as both a text author and creator of a short acting etude, working as director and actor.</p>
-
-    <p class="mt-2">March 2023 theatre, direction</p>
-  </EN>
-</Project>
-
-<Project thumbnail="vlastni_praxe.5/0.jpg" cz="Vlastní praxe 2022" en="Own Practice 2022">
-  <Folder folder="vlastni_praxe.5"></Folder>
-  <CZ>
-    <p>Vlastní praxe na SŠUM proběhla v roce 2022, kdy jsem měla možnost pracovat s 3.ročníkem- specializace Dramatická výchova na závěrečných klauzurách. Spolupracovala jsem s pedagogickým vedením ateliéru a pomáhala vést a realizovat scénografické zpracování klauzur. Tvořila jsem i celkový vizuál a propagaci projektu po konzultaci se studenty.</p>
-    <p class="mt-2">Prosinec 2022 Brno</p>
-  </CZ>
-  <EN>
-    <p>Own practice at SŠUM took place in 2022, when I had the opportunity to work with the 3rd year - specialization in Dramatic Education during final exams. I collaborated with the studio’s pedagogical leadership and helped lead and implement scenographic processing of the exams. I also created the overall visual and promotion of the project after consultation with the students.</p>
-    <p class="mt-2">December 2022 Brno</p>
-  </EN>
-</Project>
-
 
     </Grid>
 </Page>
