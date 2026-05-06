@@ -129,8 +129,8 @@
 </Project>
 
 
-   <Project thumbnail="creepko.3/0.jpg" cz="Creepeteepe 2k25 instalace" en="Creepeteepe 2k25 Installation">
-  <Folder folder="creepko.3"></Folder>
+   <Project thumbnail="creepko.2/0.jpg" cz="Creepeteepe 2k25 instalace" en="Creepeteepe 2k25 Installation">
+  <Folder folder="creepko.2"></Folder>
 
   <CZ>
     <h3>Creepeteepe 2k25 instalace</h3>
@@ -142,8 +142,8 @@
   </EN>
 </Project>
 
-<Project thumbnail="kolin.3/0.jpg" cz="Performance Tutto Questo Sentire/ Rebecca Salvadori + Coby Sey" en="Performance Tutto Questo Sentire / Rebecca Salvadori + Coby Sey">
-  <Folder folder="kolin.3"></Folder>
+<Project thumbnail="kolin.2/0.jpg" cz="Performance Tutto Questo Sentire/ Rebecca Salvadori + Coby Sey" en="Performance Tutto Questo Sentire / Rebecca Salvadori + Coby Sey">
+  <Folder folder="kolin.2"></Folder>
 
   <CZ>
     <h3>Performance Tutto Questo Sentire/ Rebecca Salvadori + Coby Sey</h3>
