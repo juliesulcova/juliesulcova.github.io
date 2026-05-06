@@ -120,11 +120,14 @@
     <h3>Ringz</h3>
     <p>Jaro 2025 Galerie Tic</p>
     <p>Prsteny vycházející z motivů automatické kresby pro Artmarket Galerie Tic.</p>
+    <p>materiál: měď a cín</p>
+
   </CZ>
   <EN>
     <h3>Ringz</h3>
     <p>Spring 2025, Galerie Tic</p>
     <p>Rings inspired by automatic drawing motifs for the Artmarket Galerie Tic.</p>
+    <p>material: cooper and tin</p>
   </EN>
 </Project>
 
@@ -135,10 +138,20 @@
   <CZ>
     <h3>Creepeteepe 2k25 instalace</h3>
     <p>Bar design, grafika pro barové menu, objekty z plechu, scénografická instalace- látky,plech, řetězy</p>
+    <p>15th edition of contemporary interdependent artist-run music festival CREEPY TEEEPEE 11th July 2025, once again, we will gather in our schoolyard sanctuary in Kutná Hora, the High School Backyard of Voršily Monastery, and won’t stop screaming ⁽ᶜᵉᵃˢᵉ ᶠⁱʳᵉ⁾ & dreaming together till Monday morning.</p>
+    <h4>𝓣𝓱𝓮 𝓬𝓪𝓶𝓹 𝓲𝓼 𝓬𝓪𝓵𝓵𝓲𝓷𝓰.</h4>
+    <p>built by friends, held by feeling, sustained through resistance. this is a space for collective dreaming in the midst of collapse. we believe care is infrastructure. kindness is survival & screaming together can be a strategy.</p>
+    <p>we welcome all bodies, all genders, all griefs. together, we celebrate trans joy, mutual aid, and liberation that goes beyond the stage. </p>
+    <p>materiál: nerezový plech, látky, řetězy</p>
   </CZ>
   <EN>
     <h3>Creepeteepe 2k25 Installation</h3>
     <p>Bar design, graphics for bar menus, metal objects, scenographic installation - fabrics, metal, chains</p>
+    <p>15th edition of contemporary interdependent artist-run music festival CREEPY TEEEPEE 11th July 2025, once again, we will gather in our schoolyard sanctuary in Kutná Hora, the High School Backyard of Voršily Monastery, and won’t stop screaming ⁽ᶜᵉᵃˢᵉ ᶠⁱʳᵉ⁾ & dreaming together till Monday morning.</p>
+    <h4>𝓣𝓱𝓮 𝓬𝓪𝓶𝓹 𝓲𝓼 𝓬𝓪𝓵𝓵𝓲𝓷𝓰.</h4>
+    <p>built by friends, held by feeling, sustained through resistance. this is a space for collective dreaming in the midst of collapse. we believe care is infrastructure. kindness is survival & screaming together can be a strategy.</p>
+    <p>we welcome all bodies, all genders, all griefs. together, we celebrate trans joy, mutual aid, and liberation that goes beyond the stage. </p>
+    <p>material: metal plates, fabric, chains</p>
   </EN>
 </Project>
 
@@ -149,11 +162,14 @@
     <h3>Performance Tutto Questo Sentire/ Rebecca Salvadori + Coby Sey</h3>
     <p>24.4.2026 Kolín nad Rýnem, Německo</p>
     <p>Kolektivní performance v rámci koncertu Coby Sey/Rebecca Salvatori/, filharmonie Kolín nad Rýnem 24.4.2025</p>
+    <p><a href="https://www.koelner-philharmonie.de/en/events/round-tutto-questo-sentire-coby-sey/4546">O akci</a></p>
   </CZ>
   <EN>
     <h3>Performance Tutto Questo Sentire / Rebecca Salvadori + Coby Sey</h3>
     <p>April 24, 2026, Cologne, Germany</p>
     <p>Collective performance as part of the Coby Sey/Rebecca Salvadori concert at the Cologne Philharmonic on April 24, 2025</p>
+
+    <p><a href="https://www.koelner-philharmonie.de/en/events/round-tutto-questo-sentire-coby-sey/4546">More about event</a></p>
   </EN>
 </Project>
 
