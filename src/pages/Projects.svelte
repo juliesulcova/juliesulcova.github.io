@@ -46,6 +46,88 @@
     </EN>
 </Project>
 
+<Project thumbnail="julio.4/0.jpg" cz="Season don’t change, how does time pass?" en="Season Don’t Change, How Does Time Pass?">
+  <Folder folder="julio.4"></Folder>
+
+  <CZ>
+    <h3>Season don’t change, how does time pass?</h3>
+    <p>21.3.2026 Barcelona, Španělsko</p>
+    <p>Album release producenta DJ SOSA RD, poslechový event  ve spolupráci s Gospelstudios (Barcelona) a sound system Pimienta (Mallorca). Pro tuto událost jsem měla možnost vytvořit instalaci v prostoru, stagedesign.</p>
+    <p><a href="https://soundcloud.com/djsosaproduciendo/sets/seasons-dont-change-how-does?si=816034797a844e5bb3d9ae1146dd6bad&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud</a></p>
+  </CZ>
+  <EN>
+    <h3>Season Don’t Change, How Does Time Pass?</h3>
+    <p>March 21, 2026, Barcelona, Spain</p>
+    <p>Album release by producer DJ SOSA RD, a listening event in collaboration with Gospelstudios (Barcelona) and the Pimienta sound system (Mallorca). For this event, I had the opportunity to create an installation in the space and stage design.</p>
+    <p><a href="https://soundcloud.com/djsosaproduciendo/sets/seasons-dont-change-how-does?si=816034797a844e5bb3d9ae1146dd6bad&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud</a></p>
+  </EN>
+</Project>
+
+<Project thumbnail="cordova.4/0.jpg" cz="Galerie Cordova" en="Cordova Gallery">
+  <Folder folder="cordova.4"></Folder>
+
+  <CZ>
+    <h3>Galerie Cordova</h3>
+    <p>1.11.2025-1.2.2026 Barcelona, Španělsko</p>
+    <p>Cordova je neziskový multidisciplinární umělecký prostor v Barceloně, který založil a vede Cory John Scozzari. Zaměřuje se především na samostatné prezentace a nové site-specific zakázky od mezinárodních umělců. Jeho kurátorská metodika vychází z hluboké důvěry v nápady umělců, a proto jsou pozvaní tvůrci povzbuzováni k experimentování a posouvání hranic své tvorby v prostředí prostém tržních či institucionálních tlaků.</p>
+    <p>V rámci  pracovní stáže jsem se věnovala produkční činnosti v podobě instalování a deinstalování výstav, stavbě výstav, organizaci chodu galerie, základního účetnictví a správy bookstore shopu, komunikaci s umělci, propagaci na soc.sítích, organizaci gala eventu.</p>
+    <p>Spolupracovala jsem na výstavách/eventech:</p>
+    <ul>
+      <li>Emily Jones: Bad To The Bone</li>
+      <li>Marcelline Mandeng Nken: Indirect States of Address</li>
+      <li>CORDOVA GALA 2025</li>
+    </ul>
+    <p><a href="https://cordova.world/">https://cordova.world/</a></p>
+  </CZ>
+  <EN>
+    <h3>Cordova Gallery</h3>
+    <p>November 1, 2025 - February 1, 2026, Barcelona, Spain</p>
+    <p>Cordova is a non-profit multidisciplinary art space in Barcelona founded and directed by Cory John Scozzari. It focuses primarily on solo presentations and new site-specific commissions by international artists. Its curatorial methodology is based on a deep trust in the artists' ideas, encouraging invited creators to experiment and push the boundaries of their work in an environment free from market or institutional pressures.</p>
+    <p>During my internship, I was involved in production activities such as installing and deinstalling exhibitions, building exhibitions, organizing gallery operations, basic accounting, managing the bookstore shop, communicating with artists, promoting on social media, and organizing the gala event.</p>
+    <p>I collaborated on the following exhibitions/events:</p>
+    <ul>
+      <li>Emily Jones: Bad To The Bone</li>
+      <li>Marcelline Mandeng Nken: Indirect States of Address</li>
+      <li>CORDOVA GALA 2025</li>
+    </ul>
+    <p><a href="https://cordova.world/">https://cordova.world/</a></p>
+  </EN>
+</Project>
+
+<Project thumbnail="juliesulc.4/0.jpg" cz="Julie Šulc/sanctuary" en="Julie Šulc / Sanctuary">
+  <Folder folder="juliesulc.4"></Folder>
+
+  <CZ>
+    <h3>Julie Šulc/sanctuary</h3>
+    <p>Hudební projekt Julie Šulc aka fiktivniodpad vzniknul v srpnu 2025.</p>
+    <p>S hudební produkcí začala nedávno v rámci studia na Brněnské FAVU, kde je také aktivním členem favu labelu. Hře na housle se věnuje od šesti let kdy ji vystudovala na ZUŠ v Blansku, poté na čtyři roky vystřídala housle za kontrabas, nyní se vrací k houslím v experimentální podobě. Její tvorbu prolíná nostalgie, smutek, zasněnost a deníkové texty. Dreamy experimentální ambient s výraznou linkou houslí a jejího hlasu je jakousi fusion mezi elektronickým a akustickým perforováním. V srpnu 2025 se stala součástí kolektivního radia infame, kde kurátoruje show Sanctuary. Díky této show začala i její samostatná performativní linka koncertů (Kafara Brno, Brnoartweek Spektrum, Infameradio, favulabel events)</p>
+    <p><a href="https://soundcloud.com/infameradio/sets/sanctuary?si=99f209efdfe347b6abca36db80f87efd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Infameradio</a></p>
+    <p><a href="https://soundcloud.com/favu-label/julie-sulc?si=e33fcc08da6c4500879e3c8d4764bf95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Favu Label</a></p>
+  </CZ>
+  <EN>
+    <h3>Julie Šulc / Sanctuary</h3>
+    <p>Julie Šulc’s music project, also known as fiktivniodpad, was created in August 2025.</p>
+    <p>She recently began music production as part of her studies at the Brno FAVU, where she is also an active member of the FAVU label. She has played the violin since she was six, studying it at the Blansko Art School, then switching to the double bass for four years. Now, she returns to the violin in an experimental form. Her work is infused with nostalgia, sadness, dreaminess, and diary-like texts. Her dreamy experimental ambient, with a strong violin and vocal line, is a fusion of electronic and acoustic performance. In August 2025, she became part of the Infame Radio collective, where she curates the Sanctuary show. Thanks to this show, she also started her own line of performances (Kafara Brno, Brno Art Week Spektrum, Infame Radio, FAVU Label events).</p>
+    <p><a href="https://soundcloud.com/infameradio/sets/sanctuary?si=99f209efdfe347b6abca36db80f87efd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Infameradio</a></p>
+    <p><a href="https://soundcloud.com/favu-label/julie-sulc?si=e33fcc08da6c4500879e3c8d4764bf95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Favu Label</a></p>
+  </EN>
+</Project>
+
+<Project thumbnail="ringz.3/0.jpg" cz="Ringz" en="Ringz">
+  <Folder folder="ringz.3"></Folder>
+
+  <CZ>
+    <h3>Ringz</h3>
+    <p>Jaro 2025 Galerie Tic</p>
+    <p>Prsteny vycházející z motivů automatické kresby pro Artmarket Galerie Tic.</p>
+  </CZ>
+  <EN>
+    <h3>Ringz</h3>
+    <p>Spring 2025, Galerie Tic</p>
+    <p>Rings inspired by automatic drawing motifs for the Artmarket Galerie Tic.</p>
+  </EN>
+</Project>
+
 
    <Project thumbnail="creepko.3/0.jpg" cz="Creepeteepe 2k25 instalace" en="Creepeteepe 2k25 Installation">
   <Folder folder="creepko.3"></Folder>
@@ -92,23 +174,6 @@
   </EN>
 </Project>
 
-<Project thumbnail="julio.4/0.jpg" cz="Season don’t change, how does time pass?" en="Season Don’t Change, How Does Time Pass?">
-  <Folder folder="julio.4"></Folder>
-
-  <CZ>
-    <h3>Season don’t change, how does time pass?</h3>
-    <p>21.3.2026 Barcelona, Španělsko</p>
-    <p>Album release producenta DJ SOSA RD, poslechový event  ve spolupráci s Gospelstudios (Barcelona) a sound system Pimienta (Mallorca). Pro tuto událost jsem měla možnost vytvořit instalaci v prostoru, stagedesign.</p>
-    <p><a href="https://soundcloud.com/djsosaproduciendo/sets/seasons-dont-change-how-does?si=816034797a844e5bb3d9ae1146dd6bad&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud</a></p>
-  </CZ>
-  <EN>
-    <h3>Season Don’t Change, How Does Time Pass?</h3>
-    <p>March 21, 2026, Barcelona, Spain</p>
-    <p>Album release by producer DJ SOSA RD, a listening event in collaboration with Gospelstudios (Barcelona) and the Pimienta sound system (Mallorca). For this event, I had the opportunity to create an installation in the space and stage design.</p>
-    <p><a href="https://soundcloud.com/djsosaproduciendo/sets/seasons-dont-change-how-does?si=816034797a844e5bb3d9ae1146dd6bad&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud</a></p>
-  </EN>
-</Project>
-
 <Project thumbnail="pohybovy.2/0.jpg" cz="ZZAI - In Your Head" en="ZZAI - In Your Head">
   <Folder folder="pohybovy.2"></Folder>
 
@@ -121,72 +186,6 @@
     <p>Movement coordinator for the ZZAI (Adela Amirzai) music video</p>
   </EN>
 </Project>
-
-<Project thumbnail="cordova.4/0.jpg" cz="Galerie Cordova" en="Cordova Gallery">
-  <Folder folder="cordova.4"></Folder>
-
-  <CZ>
-    <h3>Galerie Cordova</h3>
-    <p>1.11.2025-1.2.2026 Barcelona, Španělsko</p>
-    <p>Cordova je neziskový multidisciplinární umělecký prostor v Barceloně, který založil a vede Cory John Scozzari. Zaměřuje se především na samostatné prezentace a nové site-specific zakázky od mezinárodních umělců. Jeho kurátorská metodika vychází z hluboké důvěry v nápady umělců, a proto jsou pozvaní tvůrci povzbuzováni k experimentování a posouvání hranic své tvorby v prostředí prostém tržních či institucionálních tlaků.</p>
-    <p>V rámci  pracovní stáže jsem se věnovala produkční činnosti v podobě instalování a deinstalování výstav, stavbě výstav, organizaci chodu galerie, základního účetnictví a správy bookstore shopu, komunikaci s umělci, propagaci na soc.sítích, organizaci gala eventu.</p>
-    <p>Spolupracovala jsem na výstavách/eventech:</p>
-    <ul>
-      <li>Emily Jones: Bad To The Bone</li>
-      <li>Marcelline Mandeng Nken: Indirect States of Address</li>
-      <li>CORDOVA GALA 2025</li>
-    </ul>
-    <p><a href="https://cordova.world/">https://cordova.world/</a></p>
-  </CZ>
-  <EN>
-    <h3>Cordova Gallery</h3>
-    <p>November 1, 2025 - February 1, 2026, Barcelona, Spain</p>
-    <p>Cordova is a non-profit multidisciplinary art space in Barcelona founded and directed by Cory John Scozzari. It focuses primarily on solo presentations and new site-specific commissions by international artists. Its curatorial methodology is based on a deep trust in the artists' ideas, encouraging invited creators to experiment and push the boundaries of their work in an environment free from market or institutional pressures.</p>
-    <p>During my internship, I was involved in production activities such as installing and deinstalling exhibitions, building exhibitions, organizing gallery operations, basic accounting, managing the bookstore shop, communicating with artists, promoting on social media, and organizing the gala event.</p>
-    <p>I collaborated on the following exhibitions/events:</p>
-    <ul>
-      <li>Emily Jones: Bad To The Bone</li>
-      <li>Marcelline Mandeng Nken: Indirect States of Address</li>
-      <li>CORDOVA GALA 2025</li>
-    </ul>
-    <p><a href="https://cordova.world/">https://cordova.world/</a></p>
-  </EN>
-</Project>
-
-<Project thumbnail="ringz.3/0.jpg" cz="Ringz" en="Ringz">
-  <Folder folder="ringz.3"></Folder>
-
-  <CZ>
-    <h3>Ringz</h3>
-    <p>Jaro 2025 Galerie Tic</p>
-    <p>Prsteny vycházející z motivů automatické kresby pro Artmarket Galerie Tic.</p>
-  </CZ>
-  <EN>
-    <h3>Ringz</h3>
-    <p>Spring 2025, Galerie Tic</p>
-    <p>Rings inspired by automatic drawing motifs for the Artmarket Galerie Tic.</p>
-  </EN>
-</Project>
-
-<Project thumbnail="juliesulc.4/0.jpg" cz="Julie Šulc/sanctuary" en="Julie Šulc / Sanctuary">
-  <Folder folder="juliesulc.4"></Folder>
-
-  <CZ>
-    <h3>Julie Šulc/sanctuary</h3>
-    <p>Hudební projekt Julie Šulc aka fiktivniodpad vzniknul v srpnu 2025.</p>
-    <p>S hudební produkcí začala nedávno v rámci studia na Brněnské FAVU, kde je také aktivním členem favu labelu. Hře na housle se věnuje od šesti let kdy ji vystudovala na ZUŠ v Blansku, poté na čtyři roky vystřídala housle za kontrabas, nyní se vrací k houslím v experimentální podobě. Její tvorbu prolíná nostalgie, smutek, zasněnost a deníkové texty. Dreamy experimentální ambient s výraznou linkou houslí a jejího hlasu je jakousi fusion mezi elektronickým a akustickým perforováním. V srpnu 2025 se stala součástí kolektivního radia infame, kde kurátoruje show Sanctuary. Díky této show začala i její samostatná performativní linka koncertů (Kafara Brno, Brnoartweek Spektrum, Infameradio, favulabel events)</p>
-    <p><a href="https://soundcloud.com/infameradio/sets/sanctuary?si=99f209efdfe347b6abca36db80f87efd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Infameradio</a></p>
-    <p><a href="https://soundcloud.com/favu-label/julie-sulc?si=e33fcc08da6c4500879e3c8d4764bf95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Favu Label</a></p>
-  </CZ>
-  <EN>
-    <h3>Julie Šulc / Sanctuary</h3>
-    <p>Julie Šulc’s music project, also known as fiktivniodpad, was created in August 2025.</p>
-    <p>She recently began music production as part of her studies at the Brno FAVU, where she is also an active member of the FAVU label. She has played the violin since she was six, studying it at the Blansko Art School, then switching to the double bass for four years. Now, she returns to the violin in an experimental form. Her work is infused with nostalgia, sadness, dreaminess, and diary-like texts. Her dreamy experimental ambient, with a strong violin and vocal line, is a fusion of electronic and acoustic performance. In August 2025, she became part of the Infame Radio collective, where she curates the Sanctuary show. Thanks to this show, she also started her own line of performances (Kafara Brno, Brno Art Week Spektrum, Infame Radio, FAVU Label events).</p>
-    <p><a href="https://soundcloud.com/infameradio/sets/sanctuary?si=99f209efdfe347b6abca36db80f87efd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Infameradio</a></p>
-    <p><a href="https://soundcloud.com/favu-label/julie-sulc?si=e33fcc08da6c4500879e3c8d4764bf95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Favu Label</a></p>
-  </EN>
-</Project>
-
 
 <Project thumbnail="alzbeta.5/0.jpg" cz="chuť nahnitých slivek mi pripomina čas pomaly odísť" en="the taste of rotten plums reminds me it’s time to slowly leave">
   <Folder folder="alzbeta.5"></Folder>
