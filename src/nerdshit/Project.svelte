@@ -8,7 +8,7 @@
     let opened = false;
 </script>
 
-<div class="text-white w-75 h-75 text-center bg-black/50 bg-blend-overlay flex items-center justify-center p-2" on:click={() => opened = true} style="background-image: url({thumbnail}); background-size: cover; background-position: center">
+<div class="text-white w-full h-100 text-center bg-black/50 bg-blend-overlay flex items-center justify-center p-2" on:click={() => opened = true} style="background-image: url({thumbnail}); background-size: cover; background-position: center">
     {$preferences == 'en' ? en : cz} 
 </div>
 
