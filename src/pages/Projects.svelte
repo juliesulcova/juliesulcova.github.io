@@ -13,6 +13,181 @@
 </script>
 <Page>
     <Grid>
+
+<Project thumbnail="houserules.7/0.jpg" cz="House rules- Fáze performativní workshop" en="House Rules – Phase Performative Workshop">
+    <Folder folder="houserules.7"></Folder>
+
+    <CZ>
+        <p>House Rules: Safety and Respect byla participační pohybová performance, zaměřující se na současná pravidla v klubech, která určitým způsobem reflektují autorčin přístup a pohled na to, co pro ni znamená safe-space.</p>
+        <p>Performance se skládala z cvičení vycházejících z dramatické výchovy, zaměřených na důvěru, vnímání a fyzické propojení mezi účastníky, často s páskou přes oči a vedením pohybem skrz klubový prostor. Performance doplnil ambientní set autorky, který celkový prožitek podtrhl.</p>
+        <p class="mt-2">Prosinec 2024 Brno klub Fáze, performance, performer</p>
+    </CZ>
+
+    <EN>
+        <p>*House Rules: Safety and Respect* was a participatory movement performance reflecting the author’s view of what a safe space means in the context of club culture.</p>
+        <p>The performance included drama-based physical exercises focused on building trust and bodily connection between participants, often involving blindfolded movement led by a partner. The sensory experience was accompanied by the author's ambient DJ set, emphasizing atmosphere and immersion.</p>
+        <p class="mt-2">December 2024, Brno – Klub Fáze, performance, performer</p>
+    </EN>
+</Project>
+
+<Project thumbnail="break_the_chain.3/0.jpg" cz="Break the chain instalace" en="Break the chain installation">
+    <Folder folder="break_the_chain.3"></Folder>
+    
+    <CZ>
+        <p>Po absolvování Visiting Artist studia (FAVU) pod vedením Rebeccy Salvadori, kdy jsme se soustředili na propojení vztahu mezi videem a hudbou, kamerou a autorem. Jsem vytvořila track s názvem break the chain ve kterém reflektuji své pocity ohledně pohybu ve všední společnosti a jak to na mne působí, taktéž jsem zde reflektovala určité osobní rodinné konstelace. Téma nostalgie a smutku v mé tvorbě převládá poslední rok tudíž se v tomto duchu nese i video které pak v instalaci doplňoval track. O vztahu mezi kamerou a tebou, zvukem a námi. Video a track reflektují snahu odvrátit pozornost od svazujících vztahů ke společnosti a rodině a navrácení se k pocitu vlastnění svého času pomocí okamžiků kdy se cítím být přítomná “tady a teď”. Snovost, vzpomínky, ztracení se v čase i místu, důležitosti okamžiku tady.</p> 
+        <a href="https://vimeo.com/1094716284">Video</a>
+        <p class="mt-2">FAVU Brno, instalace-video, červen 2025</p>
+    </CZ>
+
+    <EN>
+        <p>After completing the Visiting Artist studio (FAVU) led by Rebecca Salvadori, where we focused on exploring the relationship between video and music, the camera and the author, I created a track called *break the chain* in which I reflect on my feelings about moving through everyday society and how it affects me. I also reflected on certain personal family constellations. The theme of nostalgia and sadness has dominated my work over the past year, so the video that accompanies the track in the installation carries this same atmosphere. It's about the relationship between the camera and you, the sound and us. The video and track reflect an effort to shift attention away from constraining relationships with society and family and back to a sense of owning my own time—through moments when I feel present “here and now.” Dreaminess, memories, getting lost in time and place, and the importance of the moment here.</p>
+        <a href="https://vimeo.com/1094716284">Video</a>
+        <p class="mt-2">FAVU Brno, video installation, June 2025</p>
+    </EN>
+</Project>
+
+
+   <Project thumbnail="creepko.3/0.jpg" cz="Creepeteepe 2k25 instalace (grafika)" en="Creepeteepe 2k25 Installation (Graphics)">
+  <Folder folder="creepko.3"></Folder>
+
+  <CZ>
+    <h3>Creepeteepe 2k25 instalace (grafika)</h3>
+    <p>Bar design, grafika pro barové menu, objekty z plechu, scénografická instalace- látky,plech, řetězy</p>
+  </CZ>
+  <EN>
+    <h3>Creepeteepe 2k25 Installation (Graphics)</h3>
+    <p>Bar design, graphics for bar menus, metal objects, scenographic installation - fabrics, metal, chains</p>
+  </EN>
+</Project>
+
+<Project thumbnail="kolin.3/0.jpg" cz="Performance Tutto Questo Sentire/ Rebecca Salvadori + Coby Sey (performance)" en="Performance Tutto Questo Sentire / Rebecca Salvadori + Coby Sey (Performance)">
+  <Folder folder="kolin.3"></Folder>
+
+  <CZ>
+    <h3>Performance Tutto Questo Sentire/ Rebecca Salvadori + Coby Sey (performance)</h3>
+    <p>24.4.2026 Kolín nad Rýnem, Německo</p>
+    <p>Kolektivní performance v rámci koncertu Coby Sey/Rebecca Salvatori/, filharmonie Kolín nad Rýnem 24.4.2025</p>
+  </CZ>
+  <EN>
+    <h3>Performance Tutto Questo Sentire / Rebecca Salvadori + Coby Sey (Performance)</h3>
+    <p>April 24, 2026, Cologne, Germany</p>
+    <p>Collective performance as part of the Coby Sey/Rebecca Salvadori concert at the Cologne Philharmonic on April 24, 2025</p>
+  </EN>
+</Project>
+
+<Project thumbnail="mark.2/0.jpg" cz="Mark Fell masterclass- workshop Pálava (workshop)" en="Mark Fell Masterclass - Pálava Workshop (Workshop)">
+  <Folder folder="mark.2"></Folder>
+
+  <CZ>
+    <h3>Mark Fell masterclass- workshop Pálava (workshop)</h3>
+    <p>26.4.2025 Visiting Artist studio FAVU</p>
+    <p>Mark Fell, britský umělec a hudební producent, je přední osobností elektronické hudby a jejího akademického zkoumání. Fellovo zkoumání subkultur v rámci této scény vyústilo v sérii přímočarých a často humorně pojatých instalací, koncertních sérií a kurátorských projektů, které jsou prezentovány v galeriích, muzeích, klubech či koncertních sálech (mj. v ICA v Londýně, MoMA v New Yorku, ZKM v Karlsruhe, Pirelli Hangar Bicocca v Miláně atd.).</p>
+    <p>Celodenní a noční workshop na Pálavě se skládal ze dvou částí hike spojený s 360 stupňovým natáčením západu slunce kdy několik lidí ve skupině se kontinuálně pohybovalo v 360 stupňovém tvaru a natáčelo západ slunce dokud neskončil. Následně v druhé části po západu jsme se vydali stejnou trasou hiku přes Pálavské vrchy zpět do výchozí destinace, po cestě jsme nemohli mluvit pouze komunikovat skrz hraní na okaríny a řídit se světlem baterky. Bylo to záměrné přepnutí smyslů na vnímání zvuku jako stylu komunikace. Cestu zpět doplnila i zastávka v rozlehlých skalách kde jsme přivázali přenosné reproduktory na klacky využívané k podpoře chůze v průběhu hiku a simulovali více kanálový zvuk pro jednu část skupiny která ulehla uprostřed prostoru na zem a my perforovali okolo ní a zkoumali frekvence zvuku.</p>
+  </CZ>
+  <EN>
+    <h3>Mark Fell Masterclass - Pálava Workshop (Workshop)</h3>
+    <p>April 26, 2025, Visiting Artist Studio at FAVU</p>
+    <p>Mark Fell, a British artist and music producer, is a leading figure in electronic music and its academic exploration. His research into subcultures within this scene has resulted in a series of straightforward and often humorously conceived installations, concert series, and curatorial projects presented in galleries, museums, clubs, and concert halls (including ICA London, MoMA New York, ZKM Karlsruhe, Pirelli Hangar Bicocca Milan, etc.).</p>
+    <p>The all-day and night workshop in Pálava consisted of two parts: a hike combined with 360-degree filming of the sunset, where several people in the group continuously moved in a 360-degree formation and filmed the sunset until it ended. In the second part, after sunset, we set out on the same hike route through the Pálava Mountains back to the starting destination. Along the way, we couldn’t speak—only communicate by playing ocarinas and guiding ourselves with flashlight beams. This was a deliberate shift in sensory perception, focusing on sound as a means of communication. The return journey also included a stop in the vast rocks, where we attached portable speakers to walking sticks and simulated multi-channel sound for part of the group that lay down in the middle of the space while we performed around them, exploring the frequencies of sound.</p>
+  </EN>
+</Project>
+
+<Project thumbnail="julio.4/0.jpg" cz="Season don’t change, how does time pass? (Visual)" en="Season Don’t Change, How Does Time Pass? (Visual)">
+  <Folder folder="julio.4"></Folder>
+
+  <CZ>
+    <h3>Season don’t change, how does time pass? (Visual)</h3>
+    <p>21.3.2026 Barcelona, Španělsko</p>
+    <p>Album release producenta DJ SOSA RD, poslechový event  ve spolupráci s Gospelstudios (Barcelona) a sound system Pimienta (Mallorca). Pro tuto událost jsem měla možnost vytvořit instalaci v prostoru, stagedesign.</p>
+    <p><a href="https://soundcloud.com/djsosaproduciendo/sets/seasons-dont-change-how-does?si=816034797a844e5bb3d9ae1146dd6bad&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud</a></p>
+  </CZ>
+  <EN>
+    <h3>Season Don’t Change, How Does Time Pass? (Visual)</h3>
+    <p>March 21, 2026, Barcelona, Spain</p>
+    <p>Album release by producer DJ SOSA RD, a listening event in collaboration with Gospelstudios (Barcelona) and the Pimienta sound system (Mallorca). For this event, I had the opportunity to create an installation in the space and stage design.</p>
+    <p><a href="https://soundcloud.com/djsosaproduciendo/sets/seasons-dont-change-how-does?si=816034797a844e5bb3d9ae1146dd6bad&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud</a></p>
+  </EN>
+</Project>
+
+<Project thumbnail="pohybovy.2/0.jpg" cz="ZZAI - In Your Head" en="ZZAI - In Your Head">
+  <Folder folder="pohybovy.2"></Folder>
+
+  <CZ>
+    <h3>ZZAI - In Your Head</h3>
+    <p>Movement koordinator u videoklipu ZZAI (Adela Amirzai)</p>
+  </CZ>
+  <EN>
+    <h3>ZZAI - In Your Head</h3>
+    <p>Movement coordinator for the ZZAI (Adela Amirzai) music video</p>
+  </EN>
+</Project>
+
+<Project thumbnail="cordova.4/0.jpg" cz="Galerie Cordova (produkce)" en="Cordova Gallery (Production)">
+  <Folder folder="cordova.4"></Folder>
+
+  <CZ>
+    <h3>Galerie Cordova (produkce)</h3>
+    <p>1.11.2025-1.2.2026 Barcelona, Španělsko</p>
+    <p>Cordova je neziskový multidisciplinární umělecký prostor v Barceloně, který založil a vede Cory John Scozzari. Zaměřuje se především na samostatné prezentace a nové site-specific zakázky od mezinárodních umělců. Jeho kurátorská metodika vychází z hluboké důvěry v nápady umělců, a proto jsou pozvaní tvůrci povzbuzováni k experimentování a posouvání hranic své tvorby v prostředí prostém tržních či institucionálních tlaků.</p>
+    <p>V rámci  pracovní stáže jsem se věnovala produkční činnosti v podobě instalování a deinstalování výstav, stavbě výstav, organizaci chodu galerie, základního účetnictví a správy bookstore shopu, komunikaci s umělci, propagaci na soc.sítích, organizaci gala eventu.</p>
+    <p>Spolupracovala jsem na výstavách/eventech:</p>
+    <ul>
+      <li>Emily Jones: Bad To The Bone</li>
+      <li>Marcelline Mandeng Nken: Indirect States of Address</li>
+      <li>CORDOVA GALA 2025</li>
+    </ul>
+    <p><a href="https://cordova.world/">https://cordova.world/</a></p>
+  </CZ>
+  <EN>
+    <h3>Cordova Gallery (Production)</h3>
+    <p>November 1, 2025 - February 1, 2026, Barcelona, Spain</p>
+    <p>Cordova is a non-profit multidisciplinary art space in Barcelona founded and directed by Cory John Scozzari. It focuses primarily on solo presentations and new site-specific commissions by international artists. Its curatorial methodology is based on a deep trust in the artists' ideas, encouraging invited creators to experiment and push the boundaries of their work in an environment free from market or institutional pressures.</p>
+    <p>During my internship, I was involved in production activities such as installing and deinstalling exhibitions, building exhibitions, organizing gallery operations, basic accounting, managing the bookstore shop, communicating with artists, promoting on social media, and organizing the gala event.</p>
+    <p>I collaborated on the following exhibitions/events:</p>
+    <ul>
+      <li>Emily Jones: Bad To The Bone</li>
+      <li>Marcelline Mandeng Nken: Indirect States of Address</li>
+      <li>CORDOVA GALA 2025</li>
+    </ul>
+    <p><a href="https://cordova.world/">https://cordova.world/</a></p>
+  </EN>
+</Project>
+
+<Project thumbnail="ringz.3/0.jpg" cz="Ringz (visual)" en="Ringz (Visual)">
+  <Folder folder="ringz.3"></Folder>
+
+  <CZ>
+    <h3>Ringz (visual)</h3>
+    <p>Jaro 2025 Galerie Tic</p>
+    <p>Prsteny vycházející z motivů automatické kresby pro Artmarket Galerie Tic.</p>
+  </CZ>
+  <EN>
+    <h3>Ringz (Visual)</h3>
+    <p>Spring 2025, Galerie Tic</p>
+    <p>Rings inspired by automatic drawing motifs for the Artmarket Galerie Tic.</p>
+  </EN>
+</Project>
+
+<Project thumbnail="juliesulc.4/0.jpg" cz="Julie Šulc/sanctuary (audio, video)" en="Julie Šulc / Sanctuary (Audio, Video)">
+  <Folder folder="juliesulc.4"></Folder>
+
+  <CZ>
+    <h3>Julie Šulc/sanctuary (audio, video)</h3>
+    <p>Hudební projekt Julie Šulc aka fiktivniodpad vzniknul v srpnu 2025.</p>
+    <p>S hudební produkcí začala nedávno v rámci studia na Brněnské FAVU, kde je také aktivním členem favu labelu. Hře na housle se věnuje od šesti let kdy ji vystudovala na ZUŠ v Blansku, poté na čtyři roky vystřídala housle za kontrabas, nyní se vrací k houslím v experimentální podobě. Její tvorbu prolíná nostalgie, smutek, zasněnost a deníkové texty. Dreamy experimentální ambient s výraznou linkou houslí a jejího hlasu je jakousi fusion mezi elektronickým a akustickým perforováním. V srpnu 2025 se stala součástí kolektivního radia infame, kde kurátoruje show Sanctuary. Díky této show začala i její samostatná performativní linka koncertů (Kafara Brno, Brnoartweek Spektrum, Infameradio, favulabel events)</p>
+    <p><a href="https://soundcloud.com/infameradio/sets/sanctuary?si=99f209efdfe347b6abca36db80f87efd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Infameradio</a></p>
+    <p><a href="https://soundcloud.com/favu-label/julie-sulc?si=e33fcc08da6c4500879e3c8d4764bf95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Favu Label</a></p>
+  </CZ>
+  <EN>
+    <h3>Julie Šulc / Sanctuary (Audio, Video)</h3>
+    <p>Julie Šulc’s music project, also known as fiktivniodpad, was created in August 2025.</p>
+    <p>She recently began music production as part of her studies at the Brno FAVU, where she is also an active member of the FAVU label. She has played the violin since she was six, studying it at the Blansko Art School, then switching to the double bass for four years. Now, she returns to the violin in an experimental form. Her work is infused with nostalgia, sadness, dreaminess, and diary-like texts. Her dreamy experimental ambient, with a strong violin and vocal line, is a fusion of electronic and acoustic performance. In August 2025, she became part of the Infame Radio collective, where she curates the Sanctuary show. Thanks to this show, she also started her own line of performances (Kafara Brno, Brno Art Week Spektrum, Infame Radio, FAVU Label events).</p>
+    <p><a href="https://soundcloud.com/infameradio/sets/sanctuary?si=99f209efdfe347b6abca36db80f87efd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Infameradio</a></p>
+    <p><a href="https://soundcloud.com/favu-label/julie-sulc?si=e33fcc08da6c4500879e3c8d4764bf95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">SoundCloud Favu Label</a></p>
+  </EN>
+</Project>
+
+
 <Project thumbnail="alzbeta.5/0.jpg" cz="chuť nahnitých slivek mi pripomina čas pomaly odísť" en="the taste of rotten plums reminds me it’s time to slowly leave">
   <Folder folder="alzbeta.5"></Folder>
   
@@ -45,22 +220,6 @@
   </EN>
 </Project>
 
-
-<Project thumbnail="break_the_chain.3/0.jpg" cz="Break the chain instalace" en="Break the chain installation">
-    <Folder folder="break_the_chain.3"></Folder>
-    
-    <CZ>
-        <p>Po absolvování Visiting Artist studia (FAVU) pod vedením Rebeccy Salvadori, kdy jsme se soustředili na propojení vztahu mezi videem a hudbou, kamerou a autorem. Jsem vytvořila track s názvem break the chain ve kterém reflektuji své pocity ohledně pohybu ve všední společnosti a jak to na mne působí, taktéž jsem zde reflektovala určité osobní rodinné konstelace. Téma nostalgie a smutku v mé tvorbě převládá poslední rok tudíž se v tomto duchu nese i video které pak v instalaci doplňoval track. O vztahu mezi kamerou a tebou, zvukem a námi. Video a track reflektují snahu odvrátit pozornost od svazujících vztahů ke společnosti a rodině a navrácení se k pocitu vlastnění svého času pomocí okamžiků kdy se cítím být přítomná “tady a teď”. Snovost, vzpomínky, ztracení se v čase i místu, důležitosti okamžiku tady.</p> 
-        <a href="https://vimeo.com/1094716284">Video</a>
-        <p class="mt-2">FAVU Brno, instalace-video, červen 2025</p>
-    </CZ>
-
-    <EN>
-        <p>After completing the Visiting Artist studio (FAVU) led by Rebecca Salvadori, where we focused on exploring the relationship between video and music, the camera and the author, I created a track called *break the chain* in which I reflect on my feelings about moving through everyday society and how it affects me. I also reflected on certain personal family constellations. The theme of nostalgia and sadness has dominated my work over the past year, so the video that accompanies the track in the installation carries this same atmosphere. It's about the relationship between the camera and you, the sound and us. The video and track reflect an effort to shift attention away from constraining relationships with society and family and back to a sense of owning my own time—through moments when I feel present “here and now.” Dreaminess, memories, getting lost in time and place, and the importance of the moment here.</p>
-        <a href="https://vimeo.com/1094716284">Video</a>
-        <p class="mt-2">FAVU Brno, video installation, June 2025</p>
-    </EN>
-</Project>
 <Project thumbnail="dres_cyklo.4/0.jpg" cz="Design dresu pro cyklistickou komunitu cyclecomm" en="Jersey design for the cyclecomm cycling community">
     <Folder folder="dres_cyklo.4"></Folder>
 
@@ -98,22 +257,6 @@
 
     <p class="mt-2">Kafara, Brno 1.2.2025 performer</p>
   </EN>
-</Project>
-
-<Project thumbnail="houserules.7/0.jpg" cz="House rules- Fáze performativní workshop" en="House Rules – Phase Performative Workshop">
-    <Folder folder="houserules.7"></Folder>
-
-    <CZ>
-        <p>House Rules: Safety and Respect byla participační pohybová performance, zaměřující se na současná pravidla v klubech, která určitým způsobem reflektují autorčin přístup a pohled na to, co pro ni znamená safe-space.</p>
-        <p>Performance se skládala z cvičení vycházejících z dramatické výchovy, zaměřených na důvěru, vnímání a fyzické propojení mezi účastníky, často s páskou přes oči a vedením pohybem skrz klubový prostor. Performance doplnil ambientní set autorky, který celkový prožitek podtrhl.</p>
-        <p class="mt-2">Prosinec 2024 Brno klub Fáze, performance, performer</p>
-    </CZ>
-
-    <EN>
-        <p>*House Rules: Safety and Respect* was a participatory movement performance reflecting the author’s view of what a safe space means in the context of club culture.</p>
-        <p>The performance included drama-based physical exercises focused on building trust and bodily connection between participants, often involving blindfolded movement led by a partner. The sensory experience was accompanied by the author's ambient DJ set, emphasizing atmosphere and immersion.</p>
-        <p class="mt-2">December 2024, Brno – Klub Fáze, performance, performer</p>
-    </EN>
 </Project>
 
 <Project thumbnail="masterclass.jpg" cz="Masterclass s Stéphanie N’Duhirahe: Jak prezentovat tělo v prostoru pomocí obrazu" en="Masterclass with Stéphanie N’Duhirahe: How to Present the Body in Space Through Image">
@@ -225,53 +368,6 @@
         <p>The final 10-minute performance took place inside a circle symbolizing the human mind—a space where two forces battle continuously, neither able to disappear.</p>
         <p class="mt-2">March 2024 – JAMU, Brno, performance</p>
     </EN>
-</Project>
-
-<Project thumbnail="lofofora.6/0.jpg" cz="LOFOFORA" en="LOFOFORA">
-    <Folder folder="lofofora.6"></Folder>
-    <p>
-        <CZ>TINKTURA je nová koncertní série kolektivu Lofofora přinášející do Zlína současnou alternativní hudbu, workshopy a výtvarné umění zasazené do překvapivé scénografie.</CZ>
-        <EN>TINKTURA is a new concert series by the Lofofora collective bringing contemporary alternative music, workshops, and visual art to Zlín set within a surprising scenography.</EN>
-    </p>
-
-    <h3>
-        <CZ>Line up tvořili:</CZ>
-        <EN>The lineup consisted of:</EN>
-    </h3>
-    <ul>
-        <li>
-            <b>Fæ Bestia</b> - 
-            <CZ>zpěvačka a producentka, jejíž multižánrově experimentující písně, vyznačující se v temných, éterických, silných i cíleně naivních melodiích a textech zanesou posluchače do různých světů, tělesných podob a nálad.</CZ>
-            <EN>a singer and producer whose multi-genre experimental songs, characterized by dark, ethereal, strong, and intentionally naive melodies and lyrics, transport listeners into various worlds, bodily forms, and moods.</EN>
-        </li>
-        <li>
-            <b>Zaffer 9</b> - 
-            <CZ>duo vyznačující se především pronikavým zpěvem a křikem v doprovodu post-clubové elektroniky. Z9 kombinují prvky witch housu se žánry jako je glitchcore, techno či hyperpop, čímž vytváří až bizarní střetnutí hravosti a temnoty.</CZ>
-            <EN>a duo known primarily for piercing vocals and screams accompanied by post-club electronics. Z9 combines elements of witch house with genres like glitchcore, techno, and hyperpop, creating a bizarre clash of playfulness and darkness.</EN>
-        </li>
-        <li>
-            <b>DJ LARCH</b> - 
-            <CZ>Post-club, grime, amapiano. Součástí večera byl výstavní cyklus Tiny Gallery, v rámci kterého představili své práce současné výtvarné umělectvo. Instalace byly poschovávané ve všech zákoutích industriálního prostoru.</CZ>
-            <EN>Post-club, grime, amapiano. The evening included the Tiny Gallery exhibition cycle, where contemporary visual artists presented their works. Installations were hidden throughout the corners of the industrial space.</EN>
-        </li>
-    </ul>
-
-    <h3>
-        <CZ>V rámci cyklu Tiny Gallery vystavovali:</CZ>
-        <EN>Exhibitors in the Tiny Gallery cycle included:</EN>
-    </h3>
-    <ul>
-        <li><CZ>Anna Slama a Marek Delong</CZ><EN>Anna Slama and Marek Delong</EN></li>
-        <li><CZ>Stanislava Hudecová</CZ><EN>Stanislava Hudecová</EN></li>
-        <li><CZ>Alžbětko Vocelové</CZ><EN>Alžbětka Vocelová</EN></li>
-        <li><CZ>Martin Hudák</CZ><EN>Martin Hudák</EN></li>
-        <li><CZ>Tomáš Staněk</CZ><EN>Tomáš Staněk</EN></li>
-    </ul>
-
-    <p class="mt-2">
-        <CZ>9.3.2024 koncert / výstava</CZ>
-        <EN>March 9, 2024 concert / exhibition</EN>
-    </p>
 </Project>
 
 <Project thumbnail="fiktivniodpad_printy.3/0.jpg" cz="fiktivní odpad/printy" en="fiktivní odpad/prints">
