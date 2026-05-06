@@ -11,7 +11,7 @@ let photo;
 </script>
 
 <!-- bg-conic from-[#C3BADC] via-[#E2D5C6] via-[#D9CCD8] to-[#C3BADC] -->
-<div class="p-5 grid grid-cols-1 {photo ? 'sm:grid-cols-2' : ''} gap-4 w-screen min-h-screen">
+<div class="p-5 grid grid-cols-1 {photo ? 'sm:grid-cols-2' : ''} gap-4 min-h-screen">
     <div>
         <h1 on:click={() => page = pages[0]} class="cursor-pointer">Julie Šulcová</h1>
         <h2>{page[0][$preferences == 'en' ? 1 : 0]}</h2>
