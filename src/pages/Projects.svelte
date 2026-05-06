@@ -146,7 +146,7 @@
   <Folder folder="kolin.3"></Folder>
 
   <CZ>
-    <h3>Performance Tutto Questo Sentire/ Rebecca Salvadori + Coby Sey<h3>
+    <h3>Performance Tutto Questo Sentire/ Rebecca Salvadori + Coby Sey</h3>
     <p>24.4.2026 Kolín nad Rýnem, Německo</p>
     <p>Kolektivní performance v rámci koncertu Coby Sey/Rebecca Salvatori/, filharmonie Kolín nad Rýnem 24.4.2025</p>
   </CZ>
