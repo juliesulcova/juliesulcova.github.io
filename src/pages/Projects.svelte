@@ -14,6 +14,52 @@
 <Page>
     <Grid>
 
+<Project thumbnail="lucid.6/0.jpg" cz="What do you see when you close your eyes?" en="What do you see when you close your eyes?">
+    <Folder folder="lucid.6"></Folder>
+
+    <CZ>
+	<p>Lucidní snění jako zdroj informací, rozuzlení vztahů a životních situací.</p>
+	<p>Slepá důvěra jako kontinuální téma propojuje performance v situacích, kdy záměrně umisťuji participujícího diváka do širokého prostoru bez možnosti kontroly či ovládání toho, co se stane. Vpouštím ho do jeho vlastního vnitřního stavu bytí a poddání se vlastním představám.</p>
+	<p>V tomto rozpoložení jej nechávám až do okamžiku, kdy vstupuji do vody a začínám pomalu ovládat jeho pohyb prostorem. V performance i videu odkazuji na své vzpomínky a sny, které pocházejí z mých vizualizací při cvičení. To, co se zobrazuje participujícímu divákovi, je čistě jeho osobní zážitek.</p>
+<p>Ve fragmentech zachycených digitální kamerou sleduji momenty zpřítomnění svého těla i mysli v prostředí, ve kterém se zrovna nacházím – hladina, světlo, party, chrám.</p>
+<p>Odkaz na svou matku, která mě k této myšlence prožitku momentu skrze obrazovku mobilního telefonu přivedla, zobrazuji nejen ve videu, ale i v podobě krytí objektu s metaforou dělohy matky a pupeční šňůry jako zdroje života, na kterou se mohu napojit prostřednictvím psychowalkmanu, který kdysi sama využívala.</p>
+<p>Řízená meditace s využitím psychowalkmanu</p>
+<p>performativni workshop/videoinstalace</p>
+
+<p>Audio/video: Julie Šulcová</p>
+<p>Kamera: Vojtěch Šoula, Samuel Podlaha</p>
+<p>Performer/participující: Ondřej Zoblivý</p>
+<p>Děkuji moc celému týmu, který mi pomohl s realizací performance a TJ TESLA Brno!</p>
+<p>AVU klauzura</p>
+	<a href="https://vimeo.com/1194016180?share=copy&fl=sv&fe=ci">Video</a>
+    </CZ>
+
+    <EN>
+    <p>Lucid dreaming as a source of information, resolving relationships, and life situations.</p>
+
+<p>Blind trust is a recurring theme that connects my performances in situations where I intentionally place the participating audience member in a vast space without the ability to control or influence what happens. I immerse them in their own inner state of being, surrendering to their own imagination.</p>
+
+<p>In this state, I leave them until the moment I enter the water and begin to subtly guide their movement through the space. In both the performance and the video, I reference my memories and dreams, which originate from my visualizations during exercise. What appears to the participating viewer is purely their own personal experience.</p>
+
+<p>In fragments captured by a digital camera, I observe moments of presence—of my body and mind—in the environment I find myself in: the surface of the water, light, a party, a temple.</p>
+
+<p>I reference my mother, who introduced me to the idea of experiencing the moment through the screen of a mobile phone. This is reflected not only in the video but also in the form of covering an object with the metaphor of a mother’s womb and the umbilical cord as a source of life, which I can connect to through the <i>Psychowalkman</i>—a device she once used herself.</p>
+
+<p>Guided meditation using the <i>Psychowalkman</i></p>
+<p>Performative workshop/video installation</p>
+
+<p>Audio/Video: Julie Šulcová</p>
+<p>Camera: Vojtěch Šoula, Samuel Podlaha</p>
+<p>Performer/Participant: Ondřej Zoblivý</p>
+
+<p>Thank you so much to the entire team who helped realize the performance, and to TJ TESLA Brno!</p>
+<p>AVU final project</p>
+
+<a href="https://vimeo.com/1194016180?share=copy&fl=sv&fe=ci">Video</a>
+    </EN>
+</Project>
+
+
 <Project thumbnail="houserules.7/0.jpg" cz="House rules- Fáze performativní workshop" en="House Rules – Phase Performative Workshop">
     <Folder folder="houserules.7"></Folder>
 
@@ -24,7 +70,7 @@
     </CZ>
 
     <EN>
-        <p>*House Rules: Safety and Respect* was a participatory movement performance reflecting the author’s view of what a safe space means in the context of club culture.</p>
+        <p>House Rules: Safety and Respect was a participatory movement performance reflecting the author’s view of what a safe space means in the context of club culture.</p>
         <p>The performance included drama-based physical exercises focused on building trust and bodily connection between participants, often involving blindfolded movement led by a partner. The sensory experience was accompanied by the author's ambient DJ set, emphasizing atmosphere and immersion.</p>
         <p class="mt-2">December 2024, Brno – Klub Fáze, performance, performer</p>
     </EN>
