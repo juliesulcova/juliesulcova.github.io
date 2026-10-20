@@ -17,6 +17,6 @@
     <EN>
         <p>Julia Šulcová's work takes several directions, musical, theatrical and visual. Musically, she belongs to the ambitious experimental electronic world, where she experiments with sound and its creation. She has been mostly involved in theatre during her studies at the JAMU in Brno (2021-2024), but still works with the use of the principles of drama education in the follow-up master's degree in performance at the Faculty of Performing Arts in Brno. Her visual work focuses on the creation of posters, digital art and tattoos.</p>
 
-        <p>Among others, she produces in the cultural facility Prostor in Boskovice and until recently in the collective Lofofora, which works in the form of site-specific events around Zlín and Brno, her collective work also continues actively in the music collective and label Favulabel. More recently, she has been active in infame radio with her show Sanctuary.</p>
+        <p>Among others, she produces in the cultural facility Prostor in Boskovice and until recently in the collective Lofofora, which works in the form of site-specific events around Zlín and Brno, her collective work also continues actively in the music collective and label Favulabel as a PR and active member. More recently, she has been active in infame radio with her show Sanctuary.</p>
     </EN>
 </Page>
