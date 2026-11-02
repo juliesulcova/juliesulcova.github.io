@@ -5,10 +5,10 @@
 
     export let photo;
 
-    photo = "uvodni fotka.JPEG";
+    photo = "uvodni_fotka.JPG";
 </script>
 
-<Page photo="uvodni fotka.JPEG">
+<Page photo="uvodni_fotka.JPG">
     <CZ>
         <p>Tvorba Julie Šulcové se ubírá několika směry, hudebním, divadelním a vizuálním. Hudebně se zařazuje do ambietního experimentalniho elektronického světa, kde experimentuje se zvukem a jeho tvorbou. Divadlu se věnovala nejvíce v průběhu studia na JAMU v Brně (2021-2024), stále ale pracuje s využívání principů dramatické výchovy v navazujícím magisterském studiu performance na FAVU v Brně. Vizuální tvorba se zaměřuje na tvorbu plakátů, digitálního umění a tetování.</p>
 

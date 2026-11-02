@@ -5,7 +5,7 @@
 
     export let photo;
 
-    photo = "uvodni fotka.JPEG";
+    photo = "uvodni_fotka.JPG";
 
 </script>
 
