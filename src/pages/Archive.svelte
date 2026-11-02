@@ -249,8 +249,6 @@
     </EN>
 </Project>
 
-<Project thumbnail="kruh.9/0.jpg" cz="kruh/pohybová performance" en="kruh / movement performance">
-
 <Project thumbnail="fiktivniodpad_vystava.6/0.jpg" cz="fiktivniodpad/výstava" en="fiktivniodpad/exhibition">
     <Folder folder="fiktivniodpad_vystava.6"></Folder>
 
